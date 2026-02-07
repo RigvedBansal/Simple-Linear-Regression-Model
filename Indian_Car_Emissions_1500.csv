@@ -1,0 +1,1501 @@
+CAR_NAME,BRAND,ENGINE_SIZE,CYLINDERS,FUEL_TYPE,TRANSMISSION,FUEL_CONSUMPTION_COMB,CO2_EMISSIONS
+Car_1,Kia,1.34,4,Petrol,Automatic,9.98,259.4
+Car_2,Mahindra,2.6,3,Diesel,Manual,10.52,290.2
+Car_3,Nissan,2.56,3,Petrol,Automatic,11.24,304.7
+Car_4,Skoda,2.33,3,Petrol,Automatic,11.33,295.8
+Car_5,Honda,1.4,4,Diesel,Manual,8.65,258.1
+Car_6,Kia,2.1,3,Petrol,Manual,8.91,254.4
+Car_7,Renault,1.59,4,Petrol,Automatic,9.03,244.7
+Car_8,Tata,1.0,4,Petrol,Automatic,8.27,251.5
+Car_9,Kia,2.82,4,Petrol,Automatic,11.02,301.0
+Car_10,Nissan,1.1,4,Petrol,Automatic,8.21,232.7
+Car_11,Nissan,2.89,6,Petrol,Manual,13.34,326.1
+Car_12,Skoda,1.78,3,Petrol,Manual,7.05,191.9
+Car_13,Honda,1.21,4,Diesel,Manual,9.02,256.5
+Car_14,Mahindra,1.99,4,Diesel,Automatic,10.96,293.7
+Car_15,Skoda,2.72,4,Diesel,Manual,10.79,303.8
+Car_16,Skoda,2.41,6,Petrol,Automatic,12.54,314.1
+Car_17,Tata,2.57,3,Petrol,Manual,10.25,262.5
+Car_18,Toyota,2.25,3,Petrol,Automatic,11.04,286.7
+Car_19,Honda,2.32,4,Petrol,Manual,10.96,292.3
+Car_20,Hyundai,2.67,3,Petrol,Manual,9.48,265.1
+Car_21,Skoda,1.35,4,Diesel,Automatic,9.25,257.0
+Car_22,MG,1.88,4,Petrol,Automatic,9.8,265.1
+Car_23,Toyota,1.29,3,Petrol,Automatic,8.22,224.6
+Car_24,Hyundai,2.97,4,Petrol,Automatic,11.73,310.1
+Car_25,MG,2.88,3,Diesel,Automatic,12.72,345.4
+Car_26,Honda,0.89,4,Petrol,Manual,8.0,224.9
+Car_27,Maruti Suzuki,2.35,4,Diesel,Automatic,10.42,288.9
+Car_28,MG,2.84,6,Petrol,Manual,11.53,294.2
+Car_29,Renault,1.2,3,Diesel,Manual,7.1,214.1
+Car_30,Toyota,2.05,4,Diesel,Manual,10.01,291.2
+Car_31,MG,2.81,4,Petrol,Manual,11.47,294.7
+Car_32,Volkswagen,0.87,4,Petrol,Manual,8.1,243.6
+Car_33,Maruti Suzuki,2.33,4,Petrol,Automatic,11.45,286.9
+Car_34,Nissan,1.45,3,Petrol,Automatic,9.17,249.1
+Car_35,Nissan,2.83,3,Diesel,Manual,11.02,293.3
+Car_36,Renault,2.94,3,Diesel,Manual,10.05,279.9
+Car_37,MG,2.88,4,Diesel,Automatic,11.91,312.7
+Car_38,MG,1.84,3,Diesel,Automatic,10.06,298.1
+Car_39,Tata,2.7,3,Petrol,Manual,10.48,272.6
+Car_40,MG,2.66,6,Petrol,Automatic,13.04,327.4
+Car_41,Kia,1.5,3,Diesel,Automatic,8.38,254.6
+Car_42,Mahindra,2.62,6,Petrol,Automatic,11.88,293.4
+Car_43,Volkswagen,0.88,4,Diesel,Manual,7.16,233.9
+Car_44,Tata,2.11,4,Petrol,Automatic,10.65,287.4
+Car_45,Honda,1.31,3,Petrol,Manual,7.14,206.2
+Car_46,Tata,1.07,3,CNG,Manual,6.93,190.5
+Car_47,Kia,0.97,4,Petrol,Manual,6.78,202.8
+Car_48,Honda,2.33,4,CNG,Manual,11.08,255.6
+Car_49,Volkswagen,1.55,4,CNG,Manual,8.45,216.1
+Car_50,Kia,2.39,3,Diesel,Automatic,11.49,309.6
+Car_51,Hyundai,0.94,4,Diesel,Manual,8.44,259.5
+Car_52,Mahindra,1.49,4,Diesel,Manual,8.47,256.9
+Car_53,Volkswagen,1.99,4,Diesel,Manual,8.87,268.3
+Car_54,MG,2.54,4,Petrol,Automatic,9.87,246.2
+Car_55,Hyundai,1.5,4,Petrol,Automatic,8.12,218.8
+Car_56,Renault,2.18,4,Diesel,Automatic,9.62,286.5
+Car_57,Volkswagen,2.75,3,Petrol,Automatic,12.19,319.8
+Car_58,Renault,2.15,4,Petrol,Automatic,10.6,272.9
+Car_59,Honda,1.31,3,Petrol,Automatic,8.47,239.5
+Car_60,Hyundai,0.85,3,Diesel,Automatic,5.68,210.7
+Car_61,Mahindra,2.71,3,Diesel,Manual,9.7,288.7
+Car_62,MG,0.85,3,Petrol,Manual,7.26,201.1
+Car_63,MG,2.72,3,CNG,Automatic,11.36,257.2
+Car_64,Kia,1.96,3,Diesel,Manual,8.86,263.9
+Car_65,MG,2.87,4,Diesel,Manual,11.82,328.0
+Car_66,Skoda,2.56,6,Diesel,Automatic,13.62,377.5
+Car_67,Tata,3.0,3,Diesel,Manual,11.0,304.4
+Car_68,Maruti Suzuki,1.57,6,Petrol,Manual,9.85,254.6
+Car_69,Mahindra,2.49,4,Diesel,Automatic,11.36,316.8
+Car_70,Hyundai,1.68,3,Petrol,Manual,10.05,282.8
+Car_71,Skoda,1.86,3,Diesel,Automatic,7.89,249.9
+Car_72,Mahindra,2.18,4,CNG,Automatic,11.06,251.5
+Car_73,Hyundai,2.72,4,Petrol,Manual,11.03,297.7
+Car_74,Toyota,2.96,4,Petrol,Manual,12.01,313.2
+Car_75,Toyota,2.49,3,Diesel,Manual,9.62,271.7
+Car_76,Renault,1.72,3,Petrol,Automatic,9.03,255.5
+Car_77,Mahindra,1.73,3,Diesel,Automatic,9.58,289.2
+Car_78,Toyota,2.42,3,Petrol,Automatic,12.71,330.8
+Car_79,Hyundai,1.33,3,Petrol,Manual,8.21,236.3
+Car_80,Renault,1.04,3,CNG,Manual,6.44,170.9
+Car_81,MG,1.58,4,Diesel,Automatic,9.02,280.9
+Car_82,Hyundai,1.43,6,Diesel,Manual,9.19,262.1
+Car_83,Renault,1.45,3,Petrol,Manual,6.64,211.8
+Car_84,Mahindra,1.31,6,Diesel,Automatic,9.62,268.6
+Car_85,Skoda,0.89,3,Diesel,Automatic,7.83,257.4
+Car_86,Kia,0.84,4,Diesel,Manual,6.27,216.7
+Car_87,MG,2.97,3,Diesel,Automatic,12.42,344.2
+Car_88,Volkswagen,1.74,4,Diesel,Manual,9.4,281.3
+Car_89,Skoda,1.65,6,Petrol,Automatic,10.05,259.9
+Car_90,Honda,2.3,4,Petrol,Automatic,10.73,296.3
+Car_91,Hyundai,1.28,3,Diesel,Automatic,9.26,288.3
+Car_92,Honda,2.89,4,Petrol,Manual,11.98,314.6
+Car_93,Skoda,2.53,3,Diesel,Manual,10.17,284.3
+Car_94,Renault,1.0,4,Petrol,Automatic,7.93,229.0
+Car_95,Volkswagen,1.72,4,Diesel,Automatic,9.67,283.2
+Car_96,MG,2.73,3,Diesel,Automatic,10.82,296.8
+Car_97,MG,2.88,4,Petrol,Manual,9.97,284.7
+Car_98,MG,1.83,4,Petrol,Automatic,11.27,294.8
+Car_99,Volkswagen,2.15,3,Petrol,Automatic,10.07,247.0
+Car_100,Maruti Suzuki,1.17,4,Diesel,Automatic,8.74,267.7
+Car_101,Volkswagen,2.98,3,Diesel,Automatic,11.67,315.8
+Car_102,Kia,1.31,4,Petrol,Manual,7.64,225.7
+Car_103,Volkswagen,2.87,4,Diesel,Manual,11.3,308.7
+Car_104,Skoda,2.23,4,Petrol,Automatic,9.56,269.1
+Car_105,Maruti Suzuki,2.14,4,Petrol,Manual,11.49,307.6
+Car_106,MG,1.93,4,CNG,Manual,8.59,216.5
+Car_107,Skoda,1.31,3,Petrol,Manual,6.88,209.2
+Car_108,Skoda,1.19,4,Petrol,Automatic,8.19,236.1
+Car_109,Nissan,1.29,3,Petrol,Manual,8.46,241.7
+Car_110,Tata,1.21,4,Petrol,Manual,7.95,224.9
+Car_111,Maruti Suzuki,2.52,3,Petrol,Manual,9.28,261.9
+Car_112,Skoda,1.57,3,Petrol,Automatic,9.63,267.3
+Car_113,Tata,0.93,4,Diesel,Automatic,8.46,273.4
+Car_114,Tata,2.93,3,Petrol,Manual,11.38,306.8
+Car_115,Maruti Suzuki,2.74,4,Petrol,Manual,11.66,294.5
+Car_116,Nissan,2.84,3,Petrol,Automatic,13.09,334.5
+Car_117,Honda,2.99,3,Petrol,Automatic,13.26,321.8
+Car_118,Renault,1.18,4,Diesel,Manual,7.4,246.2
+Car_119,Kia,1.67,3,CNG,Manual,9.49,225.9
+Car_120,Renault,2.47,3,Petrol,Automatic,10.91,277.6
+Car_121,Volkswagen,2.33,4,Diesel,Automatic,11.24,313.5
+Car_122,MG,1.14,3,Diesel,Manual,6.06,191.0
+Car_123,Kia,2.59,4,Diesel,Automatic,11.32,296.7
+Car_124,Volkswagen,1.29,3,Petrol,Manual,6.99,212.7
+Car_125,Skoda,1.29,3,Petrol,Manual,8.14,236.3
+Car_126,MG,1.98,4,Petrol,Manual,10.31,272.4
+Car_127,Hyundai,2.1,3,Diesel,Automatic,8.41,244.4
+Car_128,Maruti Suzuki,2.08,3,Petrol,Manual,9.2,247.8
+Car_129,Kia,1.0,3,CNG,Manual,7.74,201.7
+Car_130,Kia,2.73,3,Petrol,Automatic,11.05,294.7
+Car_131,Skoda,1.38,4,Petrol,Automatic,9.41,258.9
+Car_132,Honda,1.08,3,Diesel,Manual,7.36,249.6
+Car_133,Tata,2.76,4,Petrol,Manual,11.44,300.2
+Car_134,MG,2.9,4,Petrol,Automatic,11.9,298.4
+Car_135,Skoda,2.7,3,Diesel,Automatic,10.27,290.5
+Car_136,Toyota,2.58,6,CNG,Automatic,11.73,259.4
+Car_137,Nissan,2.24,3,Diesel,Manual,10.05,288.0
+Car_138,Tata,2.01,6,Diesel,Manual,10.73,311.5
+Car_139,Maruti Suzuki,0.99,3,Diesel,Manual,6.83,235.5
+Car_140,Tata,1.7,4,CNG,Automatic,9.27,239.1
+Car_141,Honda,1.62,4,Petrol,Manual,8.59,241.2
+Car_142,Tata,1.37,3,Petrol,Automatic,9.06,264.7
+Car_143,Maruti Suzuki,2.39,4,Petrol,Manual,10.18,271.6
+Car_144,Honda,1.89,4,Petrol,Automatic,9.03,265.3
+Car_145,Renault,0.98,3,Diesel,Manual,7.43,240.3
+Car_146,Kia,1.28,3,Diesel,Manual,7.39,246.1
+Car_147,Kia,2.3,4,Diesel,Automatic,10.85,317.0
+Car_148,Nissan,0.97,4,Petrol,Automatic,9.16,252.7
+Car_149,Volkswagen,2.67,6,Diesel,Manual,12.09,328.6
+Car_150,Renault,1.89,4,Petrol,Automatic,10.17,284.7
+Car_151,Renault,1.86,6,Diesel,Automatic,10.18,290.1
+Car_152,MG,2.1,4,Diesel,Manual,9.66,269.8
+Car_153,Tata,2.61,3,Petrol,Automatic,11.36,314.4
+Car_154,Kia,1.57,3,Petrol,Manual,7.06,211.4
+Car_155,Maruti Suzuki,2.29,4,Petrol,Manual,10.35,277.9
+Car_156,Mahindra,2.04,4,Diesel,Automatic,10.35,304.9
+Car_157,Mahindra,1.39,3,CNG,Automatic,8.4,204.9
+Car_158,Honda,2.73,3,Diesel,Manual,11.31,303.2
+Car_159,Kia,2.55,6,Petrol,Manual,12.09,310.9
+Car_160,Kia,2.25,4,Petrol,Manual,11.16,275.3
+Car_161,Nissan,2.67,3,Diesel,Manual,9.76,281.0
+Car_162,Mahindra,2.71,4,Diesel,Manual,11.19,312.2
+Car_163,Kia,2.36,3,Petrol,Manual,9.87,265.2
+Car_164,Nissan,2.64,3,Petrol,Automatic,10.25,260.7
+Car_165,Tata,2.33,3,Diesel,Automatic,11.01,321.0
+Car_166,Toyota,2.3,3,Petrol,Automatic,11.91,306.3
+Car_167,MG,2.16,4,Petrol,Manual,9.92,281.4
+Car_168,Hyundai,2.46,3,Petrol,Automatic,10.97,285.6
+Car_169,Renault,1.15,4,Petrol,Manual,7.87,222.7
+Car_170,Volkswagen,2.74,4,Diesel,Manual,10.65,302.4
+Car_171,Honda,2.72,3,CNG,Automatic,9.89,236.0
+Car_172,Toyota,0.86,4,Diesel,Manual,6.71,216.5
+Car_173,MG,2.62,4,Petrol,Manual,9.93,281.9
+Car_174,MG,1.08,4,Petrol,Manual,8.86,243.3
+Car_175,MG,1.54,3,Petrol,Manual,8.0,216.4
+Car_176,MG,2.44,4,Petrol,Manual,10.28,287.1
+Car_177,Mahindra,1.15,4,Diesel,Manual,8.44,254.6
+Car_178,Nissan,2.6,3,Petrol,Automatic,10.12,266.7
+Car_179,Renault,2.63,3,Petrol,Manual,9.84,251.2
+Car_180,Kia,1.92,4,Petrol,Manual,9.48,276.0
+Car_181,MG,0.81,4,Petrol,Manual,7.82,218.1
+Car_182,Volkswagen,1.43,3,Petrol,Manual,8.2,237.2
+Car_183,Kia,2.16,4,Petrol,Automatic,10.71,291.3
+Car_184,Maruti Suzuki,2.96,3,CNG,Automatic,11.72,275.6
+Car_185,Maruti Suzuki,2.19,4,Petrol,Manual,10.28,274.6
+Car_186,Volkswagen,1.37,3,Petrol,Manual,7.87,215.3
+Car_187,Nissan,2.19,4,Diesel,Manual,9.28,267.4
+Car_188,Volkswagen,1.99,3,CNG,Automatic,9.66,235.4
+Car_189,Mahindra,2.52,3,Diesel,Automatic,9.99,280.7
+Car_190,Volkswagen,1.04,3,Diesel,Automatic,7.69,247.1
+Car_191,Tata,2.47,3,Petrol,Automatic,10.3,281.7
+Car_192,Kia,1.99,4,Petrol,Manual,11.36,303.8
+Car_193,Toyota,2.92,3,Petrol,Automatic,11.55,287.6
+Car_194,Skoda,1.55,4,Diesel,Automatic,8.27,275.8
+Car_195,Nissan,2.19,3,Diesel,Manual,9.36,283.1
+Car_196,Volkswagen,2.85,3,Petrol,Manual,11.2,292.2
+Car_197,Honda,1.03,3,Petrol,Automatic,8.78,257.2
+Car_198,Maruti Suzuki,2.86,3,Diesel,Automatic,11.04,328.5
+Car_199,Tata,2.31,3,Petrol,Automatic,9.19,242.1
+Car_200,Renault,0.95,3,Diesel,Automatic,8.02,249.3
+Car_201,MG,1.46,4,Diesel,Manual,7.5,220.3
+Car_202,Skoda,2.36,3,Diesel,Manual,9.5,280.5
+Car_203,Nissan,0.95,4,Diesel,Automatic,7.81,250.8
+Car_204,Toyota,2.08,4,Diesel,Automatic,10.32,293.6
+Car_205,Skoda,1.56,3,Petrol,Automatic,9.21,249.5
+Car_206,Volkswagen,2.17,4,Diesel,Automatic,10.08,271.0
+Car_207,Mahindra,0.9,6,Diesel,Automatic,8.8,269.2
+Car_208,Maruti Suzuki,2.72,4,Petrol,Manual,11.1,303.4
+Car_209,Maruti Suzuki,2.94,4,Petrol,Manual,11.68,295.8
+Car_210,Renault,2.93,3,Petrol,Manual,11.07,293.8
+Car_211,Mahindra,2.45,4,Petrol,Automatic,11.45,282.7
+Car_212,MG,1.09,4,Diesel,Automatic,8.88,271.4
+Car_213,Kia,2.47,4,Diesel,Manual,10.86,300.4
+Car_214,Hyundai,0.85,6,Petrol,Manual,8.6,237.2
+Car_215,Tata,0.85,3,Petrol,Automatic,6.13,191.6
+Car_216,Maruti Suzuki,1.51,3,CNG,Manual,8.06,200.6
+Car_217,Honda,1.88,4,Petrol,Automatic,10.28,278.6
+Car_218,Maruti Suzuki,2.49,4,Petrol,Automatic,11.74,290.4
+Car_219,Skoda,2.3,3,Diesel,Manual,9.2,269.6
+Car_220,Maruti Suzuki,1.78,3,Petrol,Manual,8.13,235.0
+Car_221,Nissan,1.4,3,Petrol,Manual,7.39,211.8
+Car_222,Maruti Suzuki,2.99,3,Petrol,Automatic,12.1,325.0
+Car_223,Hyundai,1.74,4,Petrol,Automatic,10.38,269.3
+Car_224,Hyundai,1.79,4,Diesel,Manual,8.87,261.1
+Car_225,MG,1.16,3,Petrol,Automatic,8.52,233.8
+Car_226,Toyota,2.55,3,Petrol,Automatic,10.89,302.7
+Car_227,Kia,2.33,3,Diesel,Automatic,10.26,297.8
+Car_228,Honda,1.29,3,Diesel,Manual,7.41,231.7
+Car_229,Maruti Suzuki,0.98,4,Petrol,Automatic,8.58,253.7
+Car_230,Maruti Suzuki,2.3,6,Petrol,Manual,11.56,300.7
+Car_231,Tata,2.24,4,Diesel,Manual,11.7,321.8
+Car_232,Hyundai,1.4,3,Petrol,Automatic,7.79,226.0
+Car_233,Honda,2.89,4,Petrol,Manual,11.83,297.1
+Car_234,MG,1.13,4,Diesel,Automatic,8.0,254.0
+Car_235,Renault,1.75,4,Diesel,Manual,8.47,254.8
+Car_236,Toyota,2.88,4,Diesel,Manual,11.44,331.0
+Car_237,Kia,1.72,3,Diesel,Automatic,9.16,261.0
+Car_238,Mahindra,2.2,3,Diesel,Manual,11.51,329.8
+Car_239,Kia,1.67,3,Petrol,Manual,8.23,236.3
+Car_240,Nissan,1.4,3,Diesel,Manual,7.0,235.2
+Car_241,Skoda,2.96,3,Petrol,Automatic,11.86,311.9
+Car_242,Nissan,1.7,4,Petrol,Automatic,8.12,229.5
+Car_243,Maruti Suzuki,2.77,4,Diesel,Manual,11.15,317.1
+Car_244,Toyota,1.31,4,Diesel,Manual,8.16,229.6
+Car_245,Skoda,1.27,3,Petrol,Manual,8.07,227.8
+Car_246,Honda,0.87,6,CNG,Automatic,9.61,224.5
+Car_247,Mahindra,2.23,6,Petrol,Automatic,11.43,285.2
+Car_248,Hyundai,1.61,4,Petrol,Manual,8.68,243.6
+Car_249,Toyota,2.7,6,Petrol,Automatic,12.23,314.7
+Car_250,Toyota,1.84,4,Diesel,Automatic,9.07,277.1
+Car_251,Nissan,2.93,6,Diesel,Automatic,13.47,354.4
+Car_252,Maruti Suzuki,1.21,3,Petrol,Automatic,7.1,210.4
+Car_253,Volkswagen,2.71,3,Diesel,Manual,10.25,295.9
+Car_254,MG,2.51,3,Petrol,Automatic,10.02,271.5
+Car_255,Nissan,2.5,3,Diesel,Automatic,11.08,316.4
+Car_256,Toyota,2.66,3,Petrol,Manual,11.7,308.4
+Car_257,Tata,2.47,4,Petrol,Manual,9.68,264.4
+Car_258,Mahindra,2.18,4,CNG,Automatic,9.28,218.6
+Car_259,MG,1.09,4,Petrol,Automatic,8.2,230.8
+Car_260,Nissan,0.87,3,Petrol,Manual,6.69,203.8
+Car_261,Mahindra,2.83,4,Diesel,Manual,11.5,312.9
+Car_262,Tata,2.16,4,CNG,Manual,9.62,235.4
+Car_263,Renault,2.55,3,Petrol,Automatic,10.66,288.6
+Car_264,Tata,1.86,4,Petrol,Automatic,10.16,272.5
+Car_265,Tata,1.06,3,Petrol,Manual,7.8,229.4
+Car_266,Mahindra,1.08,3,Petrol,Automatic,6.35,203.8
+Car_267,Kia,2.31,6,Petrol,Manual,11.09,285.5
+Car_268,Mahindra,1.75,3,Diesel,Automatic,9.27,266.2
+Car_269,Volkswagen,1.24,4,CNG,Manual,7.36,175.4
+Car_270,Maruti Suzuki,1.88,4,Petrol,Manual,10.56,274.1
+Car_271,Skoda,0.94,4,Petrol,Automatic,7.53,228.6
+Car_272,Kia,2.08,3,Petrol,Automatic,9.79,259.8
+Car_273,Hyundai,1.39,3,Petrol,Automatic,8.76,244.9
+Car_274,Skoda,2.55,3,Diesel,Automatic,10.39,299.4
+Car_275,Maruti Suzuki,1.48,4,Petrol,Automatic,7.82,234.4
+Car_276,Nissan,1.8,3,Petrol,Automatic,8.93,240.5
+Car_277,MG,0.83,3,Diesel,Manual,7.31,247.2
+Car_278,Volkswagen,0.96,6,Petrol,Automatic,8.88,259.4
+Car_279,Volkswagen,1.66,4,Diesel,Manual,8.29,246.2
+Car_280,Hyundai,1.86,3,Petrol,Manual,9.4,251.5
+Car_281,Kia,2.12,4,Diesel,Automatic,10.22,302.8
+Car_282,Renault,1.44,4,CNG,Manual,8.07,203.0
+Car_283,Tata,2.33,3,Diesel,Manual,9.85,265.2
+Car_284,Kia,2.69,3,CNG,Automatic,11.64,257.7
+Car_285,MG,2.52,4,Petrol,Automatic,12.96,322.5
+Car_286,Renault,0.89,4,Petrol,Automatic,8.45,230.9
+Car_287,Volkswagen,1.86,4,Diesel,Manual,10.12,286.5
+Car_288,Mahindra,1.03,3,Diesel,Automatic,7.26,237.6
+Car_289,MG,1.33,3,Petrol,Automatic,7.52,237.3
+Car_290,Maruti Suzuki,2.97,3,Petrol,Automatic,11.73,299.4
+Car_291,Hyundai,1.11,3,Petrol,Automatic,7.86,240.1
+Car_292,Maruti Suzuki,1.9,3,Petrol,Manual,8.09,247.5
+Car_293,MG,2.16,3,Petrol,Automatic,9.86,280.3
+Car_294,Honda,2.35,4,Diesel,Manual,10.61,301.8
+Car_295,Honda,2.03,6,Petrol,Automatic,11.62,282.3
+Car_296,Nissan,0.82,4,Petrol,Manual,7.48,227.5
+Car_297,Kia,1.52,4,Diesel,Manual,8.8,275.2
+Car_298,Volkswagen,1.94,3,Diesel,Manual,8.57,260.8
+Car_299,Volkswagen,0.99,6,Diesel,Automatic,8.82,281.9
+Car_300,Tata,1.57,3,Diesel,Manual,7.31,246.0
+Car_301,Tata,0.87,6,Petrol,Automatic,10.18,278.4
+Car_302,Tata,0.97,6,Diesel,Automatic,9.15,282.1
+Car_303,Mahindra,1.67,4,Petrol,Automatic,9.35,261.0
+Car_304,Skoda,1.09,6,Petrol,Automatic,8.74,224.3
+Car_305,Toyota,2.05,4,Diesel,Automatic,12.36,327.2
+Car_306,Skoda,2.32,3,CNG,Manual,8.97,231.7
+Car_307,Maruti Suzuki,2.56,3,Petrol,Automatic,10.53,272.5
+Car_308,Skoda,1.24,4,Petrol,Manual,8.3,236.5
+Car_309,Mahindra,1.17,3,Petrol,Manual,7.73,218.6
+Car_310,Nissan,1.03,4,Petrol,Manual,8.23,253.3
+Car_311,Maruti Suzuki,2.2,6,Petrol,Manual,12.39,329.3
+Car_312,Skoda,2.35,3,Diesel,Manual,10.14,282.6
+Car_313,Mahindra,0.87,4,Petrol,Manual,6.49,206.4
+Car_314,Toyota,2.86,6,CNG,Manual,12.33,277.0
+Car_315,Skoda,0.91,6,Diesel,Automatic,9.23,279.3
+Car_316,Mahindra,1.99,6,Diesel,Manual,12.13,332.0
+Car_317,Tata,2.36,4,Diesel,Automatic,9.98,294.9
+Car_318,Volkswagen,2.72,6,Petrol,Manual,13.05,329.4
+Car_319,Tata,2.37,4,Petrol,Manual,10.5,305.7
+Car_320,Volkswagen,2.56,3,Diesel,Manual,10.81,293.7
+Car_321,Hyundai,1.55,4,Diesel,Manual,8.58,246.3
+Car_322,Hyundai,2.59,4,Diesel,Automatic,10.85,300.2
+Car_323,Hyundai,0.98,3,Petrol,Automatic,8.03,219.4
+Car_324,Toyota,2.77,4,CNG,Automatic,12.28,268.7
+Car_325,Tata,2.0,4,Petrol,Manual,10.28,266.2
+Car_326,Volkswagen,2.6,3,Diesel,Manual,10.3,285.3
+Car_327,Mahindra,1.8,4,CNG,Manual,8.76,208.5
+Car_328,Maruti Suzuki,2.22,4,Petrol,Automatic,9.57,266.7
+Car_329,Mahindra,1.96,4,Diesel,Manual,10.09,285.1
+Car_330,Maruti Suzuki,2.41,3,Petrol,Automatic,10.81,283.4
+Car_331,Honda,0.98,3,Petrol,Automatic,6.83,219.4
+Car_332,Mahindra,0.93,3,Petrol,Manual,6.43,197.1
+Car_333,Skoda,1.34,6,Diesel,Manual,8.99,266.9
+Car_334,Skoda,1.15,3,CNG,Automatic,6.83,184.6
+Car_335,Kia,2.72,4,Diesel,Automatic,11.14,291.6
+Car_336,Tata,1.28,3,Petrol,Automatic,7.34,199.3
+Car_337,Maruti Suzuki,2.95,3,Diesel,Manual,10.76,305.2
+Car_338,Maruti Suzuki,1.54,4,CNG,Manual,8.12,209.6
+Car_339,MG,1.2,4,Petrol,Manual,6.78,229.0
+Car_340,Nissan,2.54,3,CNG,Manual,11.6,271.0
+Car_341,Tata,2.25,3,Petrol,Manual,10.45,285.7
+Car_342,Toyota,1.9,3,Diesel,Manual,8.29,254.6
+Car_343,Kia,2.02,4,Petrol,Automatic,10.43,280.6
+Car_344,Toyota,2.38,4,Petrol,Automatic,11.29,308.9
+Car_345,Toyota,1.3,3,Petrol,Automatic,9.01,232.6
+Car_346,Toyota,2.99,3,Diesel,Manual,10.56,302.1
+Car_347,Tata,2.94,3,Petrol,Automatic,12.39,333.4
+Car_348,Toyota,2.23,6,Petrol,Manual,10.8,287.3
+Car_349,Skoda,1.24,6,Diesel,Manual,8.17,269.0
+Car_350,Nissan,2.3,3,CNG,Automatic,10.79,249.0
+Car_351,Nissan,0.96,4,Petrol,Manual,8.32,238.6
+Car_352,Hyundai,0.87,3,Petrol,Automatic,9.09,253.5
+Car_353,Honda,1.37,3,Petrol,Automatic,7.49,203.6
+Car_354,Maruti Suzuki,1.82,4,Petrol,Manual,9.71,254.1
+Car_355,MG,2.71,6,Diesel,Automatic,12.5,324.4
+Car_356,Maruti Suzuki,2.4,6,Diesel,Automatic,12.69,345.2
+Car_357,Honda,2.43,4,Diesel,Automatic,10.07,297.1
+Car_358,MG,1.74,3,Petrol,Automatic,8.22,240.0
+Car_359,Tata,1.56,4,Diesel,Manual,8.13,260.8
+Car_360,Mahindra,1.62,3,Diesel,Automatic,8.91,266.4
+Car_361,Tata,2.97,4,Diesel,Automatic,11.79,331.9
+Car_362,Maruti Suzuki,0.89,3,Diesel,Automatic,7.78,247.0
+Car_363,Maruti Suzuki,2.71,4,Diesel,Manual,11.81,322.0
+Car_364,MG,2.07,3,Diesel,Automatic,10.22,289.7
+Car_365,MG,1.76,3,Petrol,Manual,9.68,270.2
+Car_366,Honda,2.4,6,CNG,Automatic,12.43,281.2
+Car_367,Toyota,1.87,3,Petrol,Automatic,8.53,251.6
+Car_368,Tata,2.72,4,Diesel,Automatic,12.67,327.2
+Car_369,MG,2.78,3,Petrol,Manual,10.26,264.9
+Car_370,Volkswagen,1.73,3,Diesel,Manual,9.12,277.9
+Car_371,Honda,1.41,3,Diesel,Manual,8.91,267.0
+Car_372,Skoda,2.1,3,Petrol,Manual,9.58,258.1
+Car_373,Maruti Suzuki,2.81,4,Petrol,Manual,10.25,282.6
+Car_374,Honda,1.26,3,Diesel,Manual,6.85,224.3
+Car_375,Tata,2.17,6,Diesel,Automatic,12.58,333.9
+Car_376,MG,2.19,4,Petrol,Manual,9.88,280.4
+Car_377,Maruti Suzuki,2.41,3,Petrol,Automatic,10.57,294.4
+Car_378,Mahindra,1.09,4,Diesel,Manual,8.22,269.2
+Car_379,Honda,2.37,4,Petrol,Manual,10.86,283.4
+Car_380,Kia,2.8,4,Petrol,Manual,11.48,308.5
+Car_381,Maruti Suzuki,1.2,3,Petrol,Automatic,7.82,221.1
+Car_382,Tata,1.32,3,Petrol,Manual,7.4,213.7
+Car_383,Hyundai,2.94,4,Petrol,Manual,12.17,289.0
+Car_384,Volkswagen,1.2,6,Petrol,Automatic,10.01,285.2
+Car_385,Renault,2.68,4,Petrol,Automatic,11.45,289.0
+Car_386,Toyota,1.88,3,Petrol,Automatic,10.16,271.8
+Car_387,Renault,1.34,4,Petrol,Automatic,8.72,238.1
+Car_388,Tata,2.72,4,Petrol,Manual,10.52,285.9
+Car_389,Skoda,1.78,4,Petrol,Automatic,9.21,252.0
+Car_390,Skoda,1.93,3,Diesel,Manual,8.22,243.3
+Car_391,Hyundai,1.59,4,Petrol,Manual,8.55,247.1
+Car_392,Toyota,2.1,3,Petrol,Automatic,10.72,270.4
+Car_393,Kia,1.16,3,Petrol,Manual,6.72,201.8
+Car_394,Hyundai,1.66,4,Petrol,Automatic,9.62,244.0
+Car_395,Nissan,2.93,3,Diesel,Manual,10.54,285.2
+Car_396,Renault,1.37,3,Diesel,Automatic,8.14,255.2
+Car_397,Hyundai,2.24,3,Diesel,Automatic,9.1,253.7
+Car_398,Renault,1.52,6,Diesel,Automatic,10.14,277.3
+Car_399,Maruti Suzuki,2.5,4,CNG,Automatic,11.11,260.5
+Car_400,Skoda,1.09,3,Petrol,Automatic,8.12,230.3
+Car_401,Maruti Suzuki,2.93,4,Petrol,Automatic,12.31,330.7
+Car_402,Volkswagen,1.8,4,Petrol,Manual,8.34,255.8
+Car_403,Nissan,1.32,3,Petrol,Manual,8.38,232.2
+Car_404,Toyota,0.96,4,Petrol,Manual,7.56,229.9
+Car_405,Kia,1.17,4,Diesel,Automatic,8.6,268.8
+Car_406,Renault,1.94,4,Petrol,Manual,9.47,254.8
+Car_407,Kia,1.54,3,CNG,Automatic,8.32,195.5
+Car_408,Renault,2.62,4,Diesel,Manual,11.05,307.3
+Car_409,Tata,1.75,4,Petrol,Manual,9.41,257.5
+Car_410,Hyundai,1.35,3,Petrol,Automatic,7.06,211.7
+Car_411,Volkswagen,2.16,3,Petrol,Manual,9.01,255.7
+Car_412,Skoda,2.35,3,Petrol,Manual,9.61,256.0
+Car_413,MG,1.17,3,Petrol,Manual,7.49,213.2
+Car_414,Renault,1.17,4,Petrol,Automatic,9.29,257.8
+Car_415,Kia,0.88,3,Petrol,Manual,6.16,202.4
+Car_416,Volkswagen,2.42,3,Petrol,Automatic,10.18,262.7
+Car_417,Mahindra,2.26,4,CNG,Manual,9.79,244.5
+Car_418,Mahindra,1.84,3,Diesel,Manual,8.15,237.8
+Car_419,Maruti Suzuki,2.66,6,CNG,Manual,11.84,268.8
+Car_420,Skoda,2.57,3,Petrol,Manual,10.79,282.3
+Car_421,MG,2.09,3,Petrol,Automatic,9.1,247.6
+Car_422,Tata,2.71,3,Diesel,Manual,10.84,298.5
+Car_423,Kia,1.25,3,Petrol,Automatic,6.88,229.1
+Car_424,MG,1.05,3,Petrol,Automatic,7.26,211.7
+Car_425,Hyundai,1.39,4,Diesel,Manual,8.09,274.6
+Car_426,Hyundai,0.93,6,Diesel,Manual,9.63,285.1
+Car_427,Kia,1.97,3,Petrol,Automatic,9.39,259.5
+Car_428,Toyota,2.86,4,Petrol,Automatic,10.47,283.0
+Car_429,Tata,0.89,4,Petrol,Manual,5.87,216.4
+Car_430,Volkswagen,1.07,4,Petrol,Manual,7.67,218.0
+Car_431,Renault,1.79,3,Petrol,Manual,9.04,242.2
+Car_432,Toyota,2.85,3,Petrol,Manual,11.1,283.6
+Car_433,Renault,1.5,3,Petrol,Manual,8.12,235.5
+Car_434,Renault,1.92,4,CNG,Automatic,10.85,240.2
+Car_435,Toyota,0.89,4,Diesel,Manual,6.89,230.7
+Car_436,Maruti Suzuki,1.13,3,Diesel,Manual,7.85,263.5
+Car_437,Mahindra,2.97,3,Petrol,Automatic,10.54,281.4
+Car_438,Renault,2.92,6,Petrol,Manual,12.0,304.4
+Car_439,Toyota,0.81,4,Petrol,Manual,5.84,187.5
+Car_440,Toyota,2.89,6,Petrol,Automatic,12.98,333.2
+Car_441,Nissan,2.21,4,Petrol,Manual,10.01,262.8
+Car_442,MG,2.71,3,Diesel,Automatic,11.22,327.2
+Car_443,Honda,1.8,4,Diesel,Manual,9.22,291.0
+Car_444,Maruti Suzuki,1.93,4,Petrol,Manual,8.8,250.1
+Car_445,Skoda,1.88,3,Petrol,Manual,8.66,245.1
+Car_446,Honda,2.27,4,CNG,Automatic,9.72,244.1
+Car_447,MG,1.11,4,Petrol,Automatic,9.29,266.7
+Car_448,MG,0.87,3,Petrol,Automatic,7.06,208.4
+Car_449,MG,1.48,4,Petrol,Automatic,8.77,242.5
+Car_450,Honda,2.35,4,Diesel,Manual,11.45,302.9
+Car_451,Kia,1.24,6,CNG,Automatic,8.83,222.0
+Car_452,Mahindra,2.28,3,Petrol,Automatic,9.45,265.8
+Car_453,Toyota,2.93,3,Diesel,Automatic,10.84,291.4
+Car_454,Mahindra,1.01,4,Diesel,Manual,7.47,237.1
+Car_455,Tata,2.28,3,Petrol,Manual,9.94,256.8
+Car_456,Kia,1.78,4,Petrol,Automatic,10.26,266.7
+Car_457,Skoda,2.71,4,Petrol,Automatic,13.49,339.5
+Car_458,Mahindra,1.19,3,CNG,Manual,5.77,155.1
+Car_459,Hyundai,2.32,4,Petrol,Automatic,11.3,291.3
+Car_460,MG,2.64,4,Diesel,Automatic,11.15,294.6
+Car_461,Renault,2.88,3,Petrol,Automatic,11.09,291.8
+Car_462,Tata,2.3,6,Diesel,Automatic,11.5,315.4
+Car_463,Maruti Suzuki,1.89,4,Petrol,Manual,8.73,239.9
+Car_464,Skoda,2.16,4,Diesel,Manual,11.12,307.0
+Car_465,Tata,2.71,4,Diesel,Manual,11.68,320.7
+Car_466,MG,2.06,4,Diesel,Automatic,10.34,287.0
+Car_467,Renault,0.87,6,Diesel,Automatic,9.87,272.3
+Car_468,Kia,2.85,4,Petrol,Manual,10.33,292.4
+Car_469,Renault,2.32,4,Diesel,Manual,9.34,270.1
+Car_470,Honda,2.29,4,Petrol,Manual,8.68,244.7
+Car_471,Renault,1.27,3,Petrol,Automatic,7.63,235.3
+Car_472,Honda,2.25,4,Petrol,Manual,10.24,306.2
+Car_473,Kia,1.67,3,Petrol,Automatic,9.03,240.9
+Car_474,Volkswagen,2.23,3,Petrol,Automatic,10.24,278.5
+Car_475,MG,1.03,3,CNG,Manual,6.03,160.2
+Car_476,Honda,2.25,6,Petrol,Manual,11.79,298.3
+Car_477,Maruti Suzuki,3.0,4,Diesel,Automatic,12.47,327.2
+Car_478,Renault,0.91,4,Petrol,Manual,7.82,219.5
+Car_479,Renault,2.95,4,Petrol,Manual,10.27,274.6
+Car_480,Maruti Suzuki,1.7,4,Petrol,Automatic,9.79,252.8
+Car_481,Hyundai,2.72,6,CNG,Automatic,11.98,285.2
+Car_482,Toyota,2.52,4,Diesel,Automatic,11.01,307.2
+Car_483,Volkswagen,2.05,3,CNG,Automatic,10.13,246.2
+Car_484,Skoda,2.42,3,CNG,Automatic,10.6,246.9
+Car_485,Honda,2.73,4,Petrol,Manual,10.54,276.7
+Car_486,Maruti Suzuki,1.69,4,Petrol,Automatic,9.55,264.3
+Car_487,Kia,1.52,3,Diesel,Automatic,7.57,232.6
+Car_488,Honda,2.27,3,Petrol,Automatic,11.02,285.6
+Car_489,Toyota,2.58,4,Petrol,Manual,10.67,274.7
+Car_490,Kia,2.48,3,Petrol,Automatic,11.44,288.6
+Car_491,Tata,2.56,4,Diesel,Automatic,11.01,287.7
+Car_492,MG,1.76,6,Diesel,Automatic,10.43,308.0
+Car_493,Renault,2.6,3,Petrol,Manual,9.78,259.8
+Car_494,Tata,1.06,3,Petrol,Automatic,8.29,248.8
+Car_495,Honda,2.0,4,Diesel,Automatic,9.7,292.1
+Car_496,Toyota,0.81,4,Diesel,Automatic,8.15,242.2
+Car_497,Volkswagen,1.51,4,Petrol,Manual,8.3,228.8
+Car_498,MG,1.61,6,Diesel,Manual,8.5,283.3
+Car_499,Honda,1.67,3,Petrol,Manual,7.96,248.0
+Car_500,Maruti Suzuki,2.33,4,Petrol,Manual,9.47,259.9
+Car_501,Mahindra,1.65,4,Diesel,Automatic,9.49,280.9
+Car_502,Honda,1.79,4,Diesel,Automatic,8.93,262.5
+Car_503,MG,1.32,3,Petrol,Manual,8.27,241.9
+Car_504,Renault,1.62,4,Diesel,Manual,8.74,258.2
+Car_505,Renault,1.3,4,Diesel,Automatic,8.61,244.0
+Car_506,Honda,0.96,3,Diesel,Automatic,7.93,237.8
+Car_507,Kia,2.13,3,Diesel,Manual,10.0,288.2
+Car_508,Mahindra,2.27,4,Diesel,Manual,10.15,280.6
+Car_509,Maruti Suzuki,2.16,3,Petrol,Manual,8.85,248.1
+Car_510,Honda,1.82,3,Petrol,Manual,7.43,212.8
+Car_511,Kia,1.64,3,Petrol,Automatic,8.41,233.5
+Car_512,Renault,2.7,4,Petrol,Manual,10.64,289.5
+Car_513,Renault,1.94,4,Diesel,Manual,9.55,281.9
+Car_514,Toyota,1.85,4,Petrol,Automatic,9.64,263.3
+Car_515,Honda,0.86,3,Petrol,Automatic,7.74,236.1
+Car_516,Mahindra,1.55,4,Petrol,Automatic,8.83,252.7
+Car_517,Hyundai,1.64,4,Petrol,Automatic,9.4,271.9
+Car_518,Mahindra,1.68,4,Petrol,Automatic,10.36,272.5
+Car_519,Renault,2.08,6,Diesel,Manual,11.11,304.7
+Car_520,Renault,1.97,3,Petrol,Manual,8.94,238.7
+Car_521,Tata,2.14,4,Diesel,Manual,9.47,274.3
+Car_522,Renault,2.48,3,CNG,Automatic,10.21,252.6
+Car_523,Maruti Suzuki,2.59,4,Petrol,Manual,10.24,286.1
+Car_524,Skoda,2.38,3,Petrol,Automatic,10.07,279.9
+Car_525,Honda,2.9,3,Petrol,Manual,11.47,281.0
+Car_526,Mahindra,0.84,3,Diesel,Manual,6.46,232.3
+Car_527,Skoda,1.23,4,Diesel,Automatic,7.64,227.8
+Car_528,Kia,0.82,3,Petrol,Automatic,8.41,248.7
+Car_529,Hyundai,2.22,4,Petrol,Manual,10.29,272.1
+Car_530,Maruti Suzuki,2.78,3,Diesel,Manual,9.7,288.8
+Car_531,MG,1.34,3,Petrol,Manual,7.35,209.0
+Car_532,Nissan,2.84,4,Petrol,Manual,11.44,307.2
+Car_533,Mahindra,0.93,3,Diesel,Manual,8.0,237.8
+Car_534,Skoda,2.86,3,Diesel,Automatic,10.68,294.6
+Car_535,MG,1.57,4,Diesel,Automatic,9.98,278.6
+Car_536,Hyundai,1.02,3,Diesel,Automatic,8.57,245.8
+Car_537,Tata,1.87,3,Diesel,Automatic,8.94,269.2
+Car_538,MG,1.36,3,Petrol,Manual,7.51,240.2
+Car_539,Maruti Suzuki,1.43,6,Diesel,Manual,8.78,289.4
+Car_540,Maruti Suzuki,1.48,4,CNG,Automatic,8.97,221.8
+Car_541,Tata,2.57,4,Diesel,Manual,10.77,312.3
+Car_542,Nissan,1.99,4,Petrol,Automatic,10.64,283.9
+Car_543,Honda,1.48,3,Petrol,Manual,8.72,250.8
+Car_544,MG,2.14,3,Petrol,Manual,8.82,245.1
+Car_545,Tata,2.38,4,Petrol,Manual,9.02,253.6
+Car_546,Maruti Suzuki,1.4,3,Petrol,Automatic,8.38,244.9
+Car_547,Maruti Suzuki,1.71,3,Diesel,Automatic,9.25,268.9
+Car_548,Skoda,1.07,3,Diesel,Automatic,7.87,247.9
+Car_549,Renault,1.2,3,Petrol,Automatic,7.74,227.7
+Car_550,Nissan,2.3,6,Diesel,Manual,11.42,321.7
+Car_551,MG,1.2,3,Petrol,Manual,8.43,231.4
+Car_552,MG,1.96,4,Petrol,Manual,9.78,265.5
+Car_553,Hyundai,2.36,3,Petrol,Manual,9.54,278.7
+Car_554,Tata,1.04,6,Petrol,Automatic,8.93,260.7
+Car_555,Hyundai,2.05,3,Petrol,Manual,9.04,264.4
+Car_556,Tata,1.36,3,Petrol,Manual,8.85,248.9
+Car_557,Kia,2.92,4,Petrol,Manual,11.4,298.8
+Car_558,Maruti Suzuki,1.86,4,Diesel,Automatic,9.89,295.0
+Car_559,Renault,2.57,3,Petrol,Automatic,10.51,293.5
+Car_560,Skoda,2.01,3,Diesel,Automatic,10.44,278.6
+Car_561,Renault,0.9,3,Diesel,Manual,8.11,241.2
+Car_562,Renault,2.19,3,Diesel,Automatic,10.36,306.4
+Car_563,Renault,2.89,3,CNG,Manual,10.98,255.6
+Car_564,Hyundai,2.12,4,Petrol,Manual,9.88,261.7
+Car_565,Tata,2.6,3,Petrol,Manual,8.64,233.6
+Car_566,Volkswagen,2.75,3,Diesel,Automatic,11.75,315.4
+Car_567,Kia,1.3,4,Petrol,Automatic,8.82,235.5
+Car_568,Mahindra,1.27,6,Diesel,Manual,9.47,297.0
+Car_569,Renault,2.14,4,Diesel,Manual,9.4,276.7
+Car_570,Honda,1.7,3,Diesel,Automatic,8.75,264.4
+Car_571,Hyundai,2.65,3,CNG,Automatic,10.73,258.8
+Car_572,Nissan,2.78,6,CNG,Automatic,13.65,316.2
+Car_573,Skoda,1.58,3,Diesel,Manual,7.9,257.7
+Car_574,Mahindra,1.32,3,Petrol,Manual,9.08,262.6
+Car_575,Volkswagen,2.52,4,Diesel,Manual,10.99,300.6
+Car_576,Honda,1.4,4,Petrol,Automatic,8.05,231.2
+Car_577,Volkswagen,2.61,4,Petrol,Automatic,11.39,302.6
+Car_578,Mahindra,1.73,3,Diesel,Automatic,8.63,257.9
+Car_579,Renault,2.27,3,Petrol,Manual,8.08,234.4
+Car_580,Honda,1.01,6,Petrol,Manual,9.74,268.8
+Car_581,Volkswagen,2.17,3,Petrol,Automatic,10.5,286.3
+Car_582,Skoda,1.79,4,Diesel,Manual,9.53,263.3
+Car_583,Tata,2.09,4,Petrol,Automatic,10.5,285.7
+Car_584,Maruti Suzuki,1.17,4,Diesel,Manual,6.89,228.4
+Car_585,Tata,2.42,3,Petrol,Automatic,10.19,279.9
+Car_586,Mahindra,2.7,3,Diesel,Manual,11.11,315.5
+Car_587,Hyundai,1.28,4,Diesel,Manual,7.35,253.4
+Car_588,Maruti Suzuki,1.01,4,Petrol,Automatic,6.35,214.7
+Car_589,Kia,0.85,6,Petrol,Automatic,8.73,258.6
+Car_590,Skoda,2.21,3,Petrol,Automatic,9.99,282.8
+Car_591,Kia,2.14,3,CNG,Automatic,10.04,243.4
+Car_592,Honda,2.0,6,Diesel,Automatic,11.81,321.8
+Car_593,MG,1.31,4,CNG,Manual,8.6,222.0
+Car_594,Maruti Suzuki,1.66,4,Petrol,Automatic,9.67,270.5
+Car_595,Kia,2.11,3,Diesel,Automatic,10.72,298.5
+Car_596,Kia,1.89,4,Diesel,Automatic,8.91,271.5
+Car_597,Volkswagen,2.97,4,Diesel,Manual,11.99,324.5
+Car_598,Tata,1.1,4,CNG,Automatic,8.75,209.2
+Car_599,Volkswagen,2.33,3,Petrol,Automatic,9.48,272.0
+Car_600,Maruti Suzuki,1.69,3,Petrol,Automatic,7.95,232.6
+Car_601,Maruti Suzuki,1.74,4,Diesel,Manual,8.53,279.2
+Car_602,Mahindra,2.38,3,Diesel,Manual,9.38,261.9
+Car_603,Volkswagen,2.32,4,Diesel,Automatic,11.4,308.9
+Car_604,Toyota,2.98,6,Petrol,Manual,12.33,313.4
+Car_605,Nissan,1.08,3,Petrol,Automatic,7.12,227.0
+Car_606,Tata,1.03,4,Petrol,Manual,7.13,220.5
+Car_607,Maruti Suzuki,2.39,3,Petrol,Automatic,11.25,295.9
+Car_608,Mahindra,2.07,4,Diesel,Manual,9.76,273.4
+Car_609,MG,1.4,6,Diesel,Automatic,9.91,275.9
+Car_610,Volkswagen,0.97,3,Petrol,Automatic,7.41,225.0
+Car_611,Tata,0.99,3,Petrol,Manual,7.83,217.6
+Car_612,MG,2.77,3,Petrol,Automatic,10.74,278.9
+Car_613,Volkswagen,1.22,3,Petrol,Automatic,8.93,254.7
+Car_614,Kia,1.51,4,Diesel,Automatic,9.32,266.6
+Car_615,MG,1.3,6,CNG,Automatic,9.72,249.3
+Car_616,Mahindra,1.58,3,Petrol,Manual,9.92,279.5
+Car_617,Tata,0.95,3,Diesel,Automatic,6.71,213.0
+Car_618,Renault,1.94,3,Diesel,Manual,8.68,255.2
+Car_619,Honda,0.95,4,Diesel,Manual,6.53,203.2
+Car_620,Honda,2.56,3,Petrol,Manual,10.89,279.4
+Car_621,Tata,1.31,4,CNG,Manual,9.33,234.5
+Car_622,MG,1.99,4,Petrol,Automatic,11.35,291.2
+Car_623,Volkswagen,2.74,4,Petrol,Automatic,12.61,322.4
+Car_624,Mahindra,2.23,3,Petrol,Manual,9.39,245.0
+Car_625,Nissan,1.97,4,Petrol,Automatic,9.88,275.0
+Car_626,Honda,1.51,3,Petrol,Manual,6.85,206.7
+Car_627,Mahindra,1.53,3,Petrol,Automatic,10.09,271.8
+Car_628,Honda,2.27,4,Petrol,Automatic,11.1,289.5
+Car_629,Kia,2.99,4,Diesel,Automatic,11.93,312.3
+Car_630,Volkswagen,2.26,3,Diesel,Manual,10.53,287.4
+Car_631,Kia,2.03,3,Petrol,Manual,8.43,249.7
+Car_632,Honda,2.41,3,Diesel,Automatic,10.8,306.4
+Car_633,Renault,1.82,3,Diesel,Manual,8.55,270.6
+Car_634,Renault,0.93,3,Diesel,Manual,7.25,240.0
+Car_635,Kia,2.04,3,Petrol,Automatic,9.69,265.6
+Car_636,Renault,2.91,4,Diesel,Manual,10.5,281.7
+Car_637,Honda,1.19,4,CNG,Automatic,8.55,210.7
+Car_638,Tata,2.32,4,Diesel,Automatic,11.61,317.5
+Car_639,Kia,1.24,4,Petrol,Automatic,8.58,261.3
+Car_640,Nissan,1.98,3,Petrol,Manual,9.55,267.9
+Car_641,Nissan,1.01,6,Diesel,Automatic,8.49,273.9
+Car_642,Hyundai,1.79,4,Petrol,Automatic,9.74,270.6
+Car_643,MG,2.46,4,Petrol,Manual,10.13,266.0
+Car_644,Volkswagen,1.56,4,Petrol,Manual,9.2,256.3
+Car_645,Renault,2.26,6,Diesel,Manual,11.27,313.6
+Car_646,Renault,2.55,4,Diesel,Manual,11.24,302.5
+Car_647,MG,2.84,3,Petrol,Automatic,12.18,306.9
+Car_648,Maruti Suzuki,1.32,4,CNG,Manual,8.66,213.4
+Car_649,Toyota,1.68,4,Petrol,Manual,9.12,268.2
+Car_650,Kia,1.14,4,Diesel,Manual,7.1,215.6
+Car_651,Skoda,2.98,4,Diesel,Manual,11.66,329.6
+Car_652,Renault,2.84,3,Diesel,Automatic,11.04,298.8
+Car_653,Volkswagen,1.99,3,CNG,Manual,8.79,205.3
+Car_654,Hyundai,2.65,6,Petrol,Automatic,12.4,325.0
+Car_655,Nissan,1.95,4,Diesel,Manual,8.81,272.6
+Car_656,Renault,2.17,4,Petrol,Automatic,9.19,266.3
+Car_657,Hyundai,1.0,3,Diesel,Automatic,7.08,241.2
+Car_658,Honda,2.46,3,Diesel,Manual,10.15,309.3
+Car_659,Honda,1.08,4,Diesel,Automatic,7.32,243.4
+Car_660,Toyota,2.62,4,Petrol,Manual,10.91,285.4
+Car_661,Tata,2.52,4,Diesel,Automatic,12.62,339.6
+Car_662,Skoda,2.36,4,Petrol,Automatic,11.67,312.1
+Car_663,Maruti Suzuki,0.88,4,Petrol,Automatic,9.0,244.5
+Car_664,Toyota,1.47,3,Diesel,Manual,8.21,249.0
+Car_665,Mahindra,1.38,4,Petrol,Automatic,9.72,262.0
+Car_666,Maruti Suzuki,1.59,3,Diesel,Manual,7.68,226.1
+Car_667,Kia,0.99,3,Petrol,Automatic,7.08,217.2
+Car_668,Volkswagen,2.86,4,Petrol,Automatic,10.09,254.7
+Car_669,Mahindra,2.02,6,Diesel,Automatic,12.17,328.6
+Car_670,Mahindra,1.47,3,Petrol,Automatic,9.62,270.8
+Car_671,Toyota,1.67,4,Petrol,Automatic,9.12,249.4
+Car_672,MG,1.78,3,Diesel,Automatic,9.01,284.8
+Car_673,Tata,2.12,3,Petrol,Manual,8.77,234.1
+Car_674,MG,1.93,3,Diesel,Manual,9.17,283.4
+Car_675,Toyota,2.82,3,Petrol,Manual,11.56,304.9
+Car_676,Kia,1.89,4,Diesel,Automatic,8.75,249.4
+Car_677,Nissan,2.98,3,Diesel,Manual,11.39,338.1
+Car_678,Renault,2.67,4,Diesel,Automatic,11.41,313.5
+Car_679,Renault,1.26,6,Petrol,Manual,9.23,247.9
+Car_680,Tata,2.85,3,Diesel,Manual,11.16,296.8
+Car_681,Kia,1.06,4,Diesel,Automatic,8.09,250.7
+Car_682,Tata,2.6,3,Diesel,Automatic,10.84,302.4
+Car_683,Hyundai,1.64,4,Petrol,Manual,8.69,246.7
+Car_684,MG,2.73,3,Diesel,Manual,11.26,308.6
+Car_685,Renault,2.71,3,Diesel,Manual,10.83,309.1
+Car_686,Mahindra,2.57,3,Petrol,Manual,10.4,273.9
+Car_687,MG,2.54,3,Petrol,Automatic,9.89,250.6
+Car_688,Skoda,1.47,3,Diesel,Manual,7.67,243.6
+Car_689,Volkswagen,0.98,4,Petrol,Automatic,8.69,224.5
+Car_690,Kia,1.69,4,CNG,Automatic,9.58,235.4
+Car_691,Maruti Suzuki,1.18,4,Diesel,Manual,8.34,248.5
+Car_692,Tata,2.33,4,Diesel,Automatic,12.13,328.9
+Car_693,MG,1.56,3,Petrol,Manual,8.85,260.6
+Car_694,Volkswagen,2.95,3,Petrol,Automatic,11.71,293.1
+Car_695,MG,2.21,3,CNG,Automatic,9.73,244.6
+Car_696,Maruti Suzuki,2.61,3,Petrol,Manual,8.54,239.1
+Car_697,Volkswagen,1.09,4,Diesel,Automatic,8.17,269.9
+Car_698,Skoda,2.7,4,Petrol,Automatic,11.44,293.4
+Car_699,Maruti Suzuki,2.83,3,Petrol,Manual,11.07,282.2
+Car_700,Toyota,1.87,3,Petrol,Automatic,9.27,262.7
+Car_701,Honda,2.13,4,Petrol,Automatic,10.25,270.7
+Car_702,Toyota,2.48,4,CNG,Manual,9.36,220.6
+Car_703,Renault,1.18,3,Petrol,Manual,6.67,204.1
+Car_704,MG,1.91,6,Petrol,Automatic,11.44,296.2
+Car_705,Honda,1.68,6,Petrol,Automatic,11.83,315.9
+Car_706,Toyota,1.12,3,Petrol,Automatic,7.73,210.6
+Car_707,Honda,1.61,3,Petrol,Manual,8.46,241.7
+Car_708,Nissan,0.95,4,Diesel,Automatic,8.66,268.8
+Car_709,MG,0.86,6,Petrol,Automatic,8.34,241.0
+Car_710,Honda,1.1,4,Petrol,Automatic,8.57,255.3
+Car_711,Mahindra,2.92,3,Petrol,Automatic,11.06,288.9
+Car_712,Tata,2.01,3,CNG,Automatic,10.28,243.5
+Car_713,Tata,2.92,4,Petrol,Automatic,12.24,316.8
+Car_714,Mahindra,1.75,4,Petrol,Manual,9.28,257.6
+Car_715,Volkswagen,1.49,3,Diesel,Manual,7.43,236.9
+Car_716,Hyundai,1.91,4,Diesel,Automatic,10.51,302.1
+Car_717,Volkswagen,1.77,4,Petrol,Automatic,11.18,286.0
+Car_718,Maruti Suzuki,1.03,4,Petrol,Manual,6.86,206.4
+Car_719,Maruti Suzuki,2.21,4,Diesel,Manual,9.8,279.5
+Car_720,Honda,1.28,4,Petrol,Manual,8.25,249.8
+Car_721,Toyota,2.16,3,Diesel,Automatic,10.54,269.0
+Car_722,Toyota,2.23,4,Diesel,Automatic,10.29,296.9
+Car_723,Tata,1.13,3,Petrol,Automatic,5.84,193.3
+Car_724,Kia,0.93,4,Petrol,Automatic,8.9,234.5
+Car_725,Volkswagen,2.52,3,Petrol,Manual,10.67,285.2
+Car_726,Nissan,1.81,4,Diesel,Manual,7.98,254.9
+Car_727,MG,0.93,3,Petrol,Manual,6.38,208.3
+Car_728,Renault,2.99,3,Petrol,Manual,12.23,287.4
+Car_729,Skoda,0.93,3,Diesel,Automatic,8.42,271.1
+Car_730,Toyota,2.33,3,CNG,Automatic,11.0,251.9
+Car_731,MG,2.96,4,Petrol,Manual,11.49,303.7
+Car_732,Skoda,1.33,4,CNG,Manual,8.25,214.3
+Car_733,MG,1.11,4,Petrol,Manual,7.64,218.4
+Car_734,Honda,1.07,3,Petrol,Manual,7.89,236.9
+Car_735,Skoda,1.47,3,Petrol,Manual,7.32,217.0
+Car_736,Renault,1.02,3,Petrol,Automatic,7.03,196.4
+Car_737,MG,2.32,3,Petrol,Automatic,11.03,299.6
+Car_738,Mahindra,0.94,4,Petrol,Manual,7.34,213.8
+Car_739,Renault,1.92,3,CNG,Manual,9.85,229.5
+Car_740,Skoda,2.99,3,Diesel,Manual,10.66,296.6
+Car_741,Renault,2.59,3,Diesel,Automatic,10.85,306.2
+Car_742,MG,2.15,3,Petrol,Automatic,9.32,256.9
+Car_743,Hyundai,1.47,4,Petrol,Automatic,9.09,258.1
+Car_744,MG,2.17,4,Petrol,Manual,8.92,238.0
+Car_745,MG,1.96,3,Diesel,Automatic,9.22,266.9
+Car_746,Honda,1.74,3,CNG,Manual,7.5,192.7
+Car_747,Volkswagen,1.09,3,Petrol,Automatic,8.22,254.2
+Car_748,Mahindra,2.75,3,Petrol,Automatic,11.73,301.0
+Car_749,Nissan,1.79,3,Petrol,Automatic,8.0,242.8
+Car_750,Toyota,1.23,6,Petrol,Manual,10.02,270.7
+Car_751,Maruti Suzuki,1.61,4,Petrol,Manual,10.53,275.5
+Car_752,Volkswagen,1.71,4,Diesel,Automatic,9.62,278.7
+Car_753,Maruti Suzuki,2.62,3,Diesel,Manual,9.9,284.6
+Car_754,Honda,2.41,3,Petrol,Manual,11.89,310.4
+Car_755,Mahindra,2.49,4,Petrol,Manual,9.71,277.0
+Car_756,MG,0.82,4,CNG,Manual,7.14,190.3
+Car_757,Tata,1.72,4,Petrol,Manual,9.14,264.8
+Car_758,Toyota,1.86,3,Petrol,Manual,9.7,255.8
+Car_759,Hyundai,0.84,4,Petrol,Manual,7.42,218.5
+Car_760,Tata,1.37,3,Petrol,Automatic,7.98,226.1
+Car_761,Honda,2.47,4,Petrol,Manual,9.92,271.4
+Car_762,Volkswagen,1.1,4,Diesel,Manual,7.47,238.0
+Car_763,Hyundai,1.98,4,Petrol,Automatic,9.45,266.4
+Car_764,Renault,1.27,3,Petrol,Automatic,8.15,227.4
+Car_765,Skoda,0.83,4,Diesel,Automatic,7.35,239.4
+Car_766,Hyundai,1.33,3,Petrol,Automatic,7.2,224.4
+Car_767,Nissan,2.95,3,Diesel,Manual,11.92,304.9
+Car_768,Honda,2.56,3,Diesel,Automatic,10.48,316.0
+Car_769,Kia,2.91,4,Petrol,Automatic,11.22,290.0
+Car_770,Skoda,1.87,3,Diesel,Manual,8.66,245.0
+Car_771,Maruti Suzuki,1.04,3,Petrol,Manual,7.08,217.4
+Car_772,Toyota,2.01,4,CNG,Manual,8.4,210.7
+Car_773,Maruti Suzuki,1.8,3,Petrol,Automatic,9.46,259.3
+Car_774,Hyundai,2.66,4,CNG,Manual,10.25,253.5
+Car_775,Maruti Suzuki,1.02,3,Diesel,Automatic,8.79,272.3
+Car_776,Nissan,1.87,3,Petrol,Manual,9.14,256.8
+Car_777,Honda,1.13,4,Petrol,Manual,7.49,227.6
+Car_778,Renault,1.51,3,CNG,Automatic,8.1,203.9
+Car_779,Volkswagen,2.42,4,Diesel,Manual,10.41,311.6
+Car_780,Toyota,1.85,4,Petrol,Manual,9.71,251.3
+Car_781,Nissan,1.63,4,Diesel,Manual,8.81,267.2
+Car_782,Nissan,1.67,4,Petrol,Manual,8.75,247.5
+Car_783,Maruti Suzuki,1.81,3,Petrol,Manual,8.69,253.1
+Car_784,Maruti Suzuki,2.53,3,Petrol,Automatic,10.34,268.7
+Car_785,Hyundai,2.76,4,Petrol,Automatic,11.56,283.2
+Car_786,Volkswagen,2.9,4,Diesel,Manual,10.03,290.0
+Car_787,Tata,2.53,4,Petrol,Automatic,11.99,309.3
+Car_788,Maruti Suzuki,1.49,4,Diesel,Automatic,9.34,289.2
+Car_789,Honda,2.31,4,Petrol,Automatic,10.31,264.3
+Car_790,Kia,1.76,4,Petrol,Manual,10.43,288.3
+Car_791,Toyota,1.36,3,Petrol,Manual,7.77,250.1
+Car_792,MG,2.65,4,Petrol,Manual,10.24,271.0
+Car_793,Maruti Suzuki,0.88,4,Petrol,Automatic,8.45,229.7
+Car_794,Honda,2.78,3,Petrol,Automatic,11.57,295.4
+Car_795,Honda,1.82,4,Diesel,Manual,9.5,278.9
+Car_796,Toyota,2.2,4,Petrol,Manual,9.72,269.9
+Car_797,Tata,2.25,4,Petrol,Automatic,11.04,283.9
+Car_798,Honda,2.77,3,Petrol,Automatic,11.08,304.0
+Car_799,Kia,2.2,3,Diesel,Manual,9.86,275.4
+Car_800,Honda,2.15,4,CNG,Automatic,9.18,209.2
+Car_801,Honda,0.95,6,Petrol,Automatic,8.79,257.6
+Car_802,Honda,1.94,3,Petrol,Automatic,10.73,263.0
+Car_803,Renault,1.13,3,Petrol,Automatic,7.29,218.0
+Car_804,Renault,2.42,4,CNG,Automatic,10.66,280.3
+Car_805,Tata,1.93,3,Petrol,Automatic,9.19,254.9
+Car_806,Maruti Suzuki,2.3,4,Petrol,Automatic,9.98,259.5
+Car_807,Honda,0.89,6,Petrol,Manual,6.82,210.7
+Car_808,Volkswagen,0.99,3,Petrol,Manual,6.77,209.8
+Car_809,Maruti Suzuki,2.38,4,Petrol,Automatic,11.09,291.6
+Car_810,Tata,0.96,3,Diesel,Automatic,7.43,246.4
+Car_811,Mahindra,0.96,3,Petrol,Automatic,7.36,211.8
+Car_812,Maruti Suzuki,0.83,4,Diesel,Manual,7.17,250.8
+Car_813,Maruti Suzuki,2.9,3,Petrol,Manual,11.66,302.9
+Car_814,Skoda,2.42,6,Petrol,Automatic,12.05,314.5
+Car_815,Hyundai,1.58,4,CNG,Manual,8.32,203.3
+Car_816,MG,1.45,3,Petrol,Automatic,8.3,250.1
+Car_817,Skoda,1.57,3,Diesel,Automatic,9.15,270.0
+Car_818,Kia,2.5,3,Petrol,Automatic,11.69,303.8
+Car_819,Renault,2.26,3,Petrol,Automatic,9.76,257.2
+Car_820,Renault,1.21,3,CNG,Automatic,8.06,195.1
+Car_821,Hyundai,1.18,3,Petrol,Automatic,8.16,242.2
+Car_822,Toyota,1.02,4,Diesel,Automatic,7.45,236.8
+Car_823,Toyota,2.25,4,Petrol,Manual,10.14,264.9
+Car_824,Tata,2.48,4,Diesel,Automatic,10.18,285.5
+Car_825,Nissan,1.38,4,Petrol,Manual,7.06,221.9
+Car_826,Hyundai,0.85,3,Petrol,Automatic,7.49,217.9
+Car_827,MG,0.98,3,Diesel,Automatic,7.24,235.9
+Car_828,Maruti Suzuki,2.93,4,CNG,Manual,11.69,271.4
+Car_829,Toyota,1.45,4,CNG,Manual,8.43,193.7
+Car_830,MG,2.49,3,Diesel,Automatic,10.0,274.8
+Car_831,Honda,2.17,4,Diesel,Manual,9.93,289.7
+Car_832,Nissan,1.64,4,Petrol,Automatic,8.58,237.1
+Car_833,Volkswagen,1.25,4,Petrol,Automatic,9.6,272.1
+Car_834,Maruti Suzuki,1.07,3,Petrol,Manual,6.15,207.5
+Car_835,Kia,2.15,4,Petrol,Manual,9.78,272.4
+Car_836,Honda,2.5,4,Petrol,Manual,9.92,284.9
+Car_837,Honda,2.22,4,Petrol,Manual,10.46,277.8
+Car_838,Hyundai,1.97,4,Petrol,Automatic,9.9,274.0
+Car_839,Nissan,0.89,4,Diesel,Manual,6.91,225.6
+Car_840,Tata,2.93,4,Petrol,Manual,12.15,331.8
+Car_841,Kia,2.56,3,Petrol,Manual,10.25,292.5
+Car_842,Toyota,1.44,4,Petrol,Manual,8.79,247.7
+Car_843,MG,2.96,4,Diesel,Manual,10.93,308.7
+Car_844,Hyundai,2.12,4,Diesel,Automatic,9.47,290.4
+Car_845,Toyota,2.08,3,Diesel,Automatic,9.89,284.6
+Car_846,Hyundai,2.45,3,Petrol,Manual,9.77,259.8
+Car_847,Hyundai,2.59,4,Petrol,Manual,11.28,301.5
+Car_848,Hyundai,2.24,4,Petrol,Automatic,10.65,282.7
+Car_849,Nissan,1.08,6,Petrol,Manual,8.91,251.5
+Car_850,Tata,1.54,4,Petrol,Automatic,8.1,227.3
+Car_851,Hyundai,2.84,4,Petrol,Automatic,13.29,315.4
+Car_852,Mahindra,1.29,4,Petrol,Manual,7.99,234.9
+Car_853,Volkswagen,1.62,4,CNG,Automatic,9.89,246.1
+Car_854,Toyota,1.75,4,CNG,Manual,8.49,210.0
+Car_855,Maruti Suzuki,1.77,4,Petrol,Manual,9.33,270.5
+Car_856,Skoda,2.15,3,Petrol,Automatic,9.05,246.1
+Car_857,MG,2.87,4,Petrol,Automatic,12.34,303.8
+Car_858,Kia,1.33,4,Petrol,Manual,7.94,231.3
+Car_859,Renault,1.07,3,CNG,Automatic,7.72,197.1
+Car_860,Tata,1.23,3,Petrol,Manual,7.92,238.4
+Car_861,Maruti Suzuki,2.75,3,Diesel,Automatic,10.36,287.7
+Car_862,Honda,2.22,3,Petrol,Automatic,9.63,275.5
+Car_863,Mahindra,1.43,3,CNG,Manual,8.17,223.8
+Car_864,Renault,2.6,3,Petrol,Manual,11.78,302.6
+Car_865,Skoda,2.7,6,Diesel,Manual,12.07,337.5
+Car_866,Maruti Suzuki,2.66,4,Petrol,Automatic,12.0,297.5
+Car_867,Renault,2.82,3,Diesel,Manual,10.7,310.6
+Car_868,Maruti Suzuki,1.35,3,Petrol,Manual,9.04,261.7
+Car_869,MG,2.46,4,Petrol,Automatic,9.94,276.7
+Car_870,Mahindra,1.81,3,CNG,Automatic,9.32,227.3
+Car_871,Skoda,2.65,4,CNG,Manual,9.83,210.3
+Car_872,Honda,2.4,4,Diesel,Manual,8.69,258.0
+Car_873,Hyundai,2.51,4,Diesel,Manual,10.88,298.6
+Car_874,Toyota,2.24,3,Diesel,Manual,9.65,272.7
+Car_875,Honda,1.19,4,Petrol,Automatic,8.3,239.7
+Car_876,Hyundai,2.0,3,Petrol,Automatic,9.58,258.5
+Car_877,Nissan,2.97,6,Petrol,Manual,14.91,353.4
+Car_878,Nissan,2.86,4,Diesel,Manual,11.23,301.2
+Car_879,Nissan,0.89,3,Petrol,Manual,7.08,209.5
+Car_880,Tata,1.16,3,Petrol,Automatic,7.43,232.5
+Car_881,Volkswagen,1.09,3,Diesel,Manual,7.35,233.0
+Car_882,Kia,2.4,4,Diesel,Manual,10.27,288.4
+Car_883,Kia,2.6,3,Petrol,Automatic,10.62,277.4
+Car_884,Nissan,1.27,4,Petrol,Automatic,9.94,271.9
+Car_885,Toyota,1.91,3,Petrol,Manual,9.69,268.4
+Car_886,Skoda,2.65,4,Petrol,Manual,11.06,262.2
+Car_887,Mahindra,2.41,4,Petrol,Automatic,9.45,269.0
+Car_888,Skoda,1.99,4,Diesel,Manual,9.33,288.5
+Car_889,Mahindra,2.1,4,Diesel,Manual,11.7,310.0
+Car_890,Skoda,1.92,3,Diesel,Automatic,9.32,266.7
+Car_891,Volkswagen,1.45,3,Petrol,Automatic,9.27,252.4
+Car_892,Tata,2.04,4,Diesel,Automatic,11.29,305.1
+Car_893,Tata,2.32,3,Petrol,Manual,9.88,269.8
+Car_894,Nissan,2.72,3,Petrol,Automatic,10.57,263.0
+Car_895,Hyundai,2.2,3,Diesel,Automatic,8.37,247.8
+Car_896,Renault,2.47,3,Petrol,Manual,10.52,293.5
+Car_897,Tata,1.15,3,Petrol,Manual,6.69,200.4
+Car_898,Tata,1.82,4,Diesel,Automatic,9.95,298.3
+Car_899,Honda,0.82,3,Petrol,Automatic,6.3,204.7
+Car_900,Honda,1.34,4,Diesel,Manual,8.03,235.3
+Car_901,Hyundai,2.4,3,Petrol,Manual,9.91,274.1
+Car_902,MG,2.98,4,Diesel,Automatic,12.45,332.3
+Car_903,Renault,1.02,3,Petrol,Automatic,6.81,206.9
+Car_904,Toyota,1.68,4,Petrol,Manual,9.77,267.9
+Car_905,Honda,2.56,4,Diesel,Automatic,10.96,310.0
+Car_906,Toyota,1.25,3,Petrol,Manual,6.3,207.9
+Car_907,Maruti Suzuki,2.02,6,Petrol,Automatic,11.27,304.1
+Car_908,Honda,2.41,6,Petrol,Manual,11.59,303.1
+Car_909,Volkswagen,2.16,4,Petrol,Manual,10.05,258.5
+Car_910,MG,1.21,4,Petrol,Automatic,9.49,256.3
+Car_911,Renault,1.58,3,Petrol,Automatic,8.6,270.6
+Car_912,Hyundai,2.52,4,CNG,Manual,10.61,257.8
+Car_913,Maruti Suzuki,2.02,3,Petrol,Automatic,8.92,271.3
+Car_914,Renault,0.81,3,Petrol,Automatic,7.73,240.6
+Car_915,Nissan,2.47,6,Petrol,Automatic,12.42,316.9
+Car_916,Volkswagen,0.88,3,Petrol,Manual,6.4,206.1
+Car_917,Renault,2.44,4,CNG,Automatic,9.79,235.8
+Car_918,Volkswagen,1.25,4,Petrol,Automatic,9.64,247.7
+Car_919,Volkswagen,2.91,4,CNG,Manual,10.65,252.2
+Car_920,Toyota,1.61,6,Petrol,Automatic,10.07,282.2
+Car_921,Skoda,1.52,3,Diesel,Automatic,8.89,262.1
+Car_922,Nissan,1.13,3,Petrol,Manual,6.39,206.9
+Car_923,Maruti Suzuki,1.47,3,Diesel,Manual,6.89,238.1
+Car_924,Renault,2.73,3,Diesel,Automatic,9.7,274.3
+Car_925,Mahindra,2.99,3,Petrol,Automatic,12.23,307.2
+Car_926,Maruti Suzuki,1.61,3,Petrol,Manual,7.85,221.1
+Car_927,Skoda,1.79,4,Petrol,Manual,11.21,285.0
+Car_928,Maruti Suzuki,2.39,4,CNG,Automatic,10.32,234.3
+Car_929,Tata,2.75,3,Petrol,Automatic,10.58,272.6
+Car_930,Mahindra,2.1,4,Petrol,Automatic,10.01,283.0
+Car_931,Skoda,1.66,3,Diesel,Manual,8.51,252.2
+Car_932,Toyota,1.71,3,Petrol,Automatic,8.71,247.3
+Car_933,Renault,2.33,4,CNG,Manual,10.72,248.8
+Car_934,MG,0.81,4,Diesel,Manual,6.42,232.4
+Car_935,Kia,2.16,4,Diesel,Manual,8.97,280.7
+Car_936,Skoda,1.58,3,Diesel,Automatic,7.51,249.7
+Car_937,Hyundai,2.55,4,Petrol,Automatic,9.8,269.1
+Car_938,Renault,1.0,4,Petrol,Automatic,7.74,226.1
+Car_939,Nissan,2.09,4,Petrol,Manual,9.58,251.5
+Car_940,Skoda,1.86,4,Petrol,Automatic,9.46,277.5
+Car_941,Tata,2.21,4,Diesel,Manual,10.91,298.0
+Car_942,Kia,0.94,4,CNG,Manual,8.23,213.2
+Car_943,Tata,2.08,4,Petrol,Manual,9.53,270.8
+Car_944,Kia,2.04,6,Petrol,Manual,9.53,256.3
+Car_945,Nissan,2.03,4,CNG,Manual,9.27,235.8
+Car_946,MG,2.13,3,Petrol,Manual,8.9,256.5
+Car_947,Hyundai,2.29,4,Petrol,Automatic,10.35,292.0
+Car_948,Renault,2.57,3,Petrol,Manual,9.76,261.3
+Car_949,Toyota,1.39,3,CNG,Automatic,7.91,189.8
+Car_950,Tata,2.62,4,Diesel,Manual,10.63,295.1
+Car_951,Tata,1.9,6,Diesel,Automatic,10.65,301.9
+Car_952,Volkswagen,0.97,6,Diesel,Automatic,9.28,275.2
+Car_953,Kia,0.93,3,Petrol,Automatic,7.66,223.2
+Car_954,Honda,1.54,4,Petrol,Automatic,8.6,226.9
+Car_955,MG,2.53,3,Diesel,Manual,11.05,311.7
+Car_956,Renault,2.36,6,Petrol,Manual,10.77,302.0
+Car_957,Kia,2.53,6,Diesel,Manual,10.68,304.8
+Car_958,Volkswagen,1.94,4,CNG,Manual,9.74,240.7
+Car_959,Maruti Suzuki,1.77,4,Diesel,Automatic,9.14,277.2
+Car_960,Kia,1.12,4,Diesel,Automatic,8.58,265.3
+Car_961,Toyota,1.52,4,Diesel,Automatic,7.51,250.3
+Car_962,Renault,1.75,3,Diesel,Manual,9.5,282.3
+Car_963,MG,0.99,4,Petrol,Automatic,8.55,240.4
+Car_964,Volkswagen,1.29,4,Petrol,Manual,7.06,208.4
+Car_965,Maruti Suzuki,2.12,4,Petrol,Automatic,9.42,257.0
+Car_966,Mahindra,2.42,3,Diesel,Automatic,11.7,322.3
+Car_967,Volkswagen,3.0,6,Petrol,Automatic,12.88,320.4
+Car_968,Mahindra,2.85,3,Diesel,Automatic,10.85,306.6
+Car_969,Renault,2.21,4,Petrol,Automatic,9.05,256.4
+Car_970,Tata,1.73,4,Diesel,Manual,8.79,273.1
+Car_971,Volkswagen,2.2,4,Petrol,Automatic,10.46,290.1
+Car_972,Hyundai,2.53,4,Diesel,Manual,11.21,311.1
+Car_973,Mahindra,1.06,3,Petrol,Manual,6.1,186.1
+Car_974,Toyota,1.7,3,Petrol,Manual,7.36,218.1
+Car_975,Hyundai,2.65,4,Petrol,Manual,11.28,294.1
+Car_976,Skoda,1.64,4,Diesel,Manual,9.55,263.2
+Car_977,Skoda,2.06,3,Petrol,Manual,8.08,247.0
+Car_978,Maruti Suzuki,2.09,4,Petrol,Manual,10.55,281.5
+Car_979,MG,1.21,4,CNG,Manual,7.97,205.9
+Car_980,Tata,1.6,4,Diesel,Automatic,10.12,302.5
+Car_981,Renault,1.54,4,CNG,Automatic,9.18,219.2
+Car_982,Volkswagen,0.86,3,Petrol,Manual,4.89,180.6
+Car_983,Honda,0.85,3,Petrol,Manual,6.53,204.8
+Car_984,Toyota,2.63,4,Diesel,Manual,11.67,317.2
+Car_985,Mahindra,1.4,4,Petrol,Automatic,8.31,231.8
+Car_986,Renault,1.94,4,Diesel,Automatic,9.8,299.3
+Car_987,Hyundai,1.46,4,Petrol,Manual,8.34,235.9
+Car_988,Nissan,2.87,4,Petrol,Manual,9.4,265.2
+Car_989,Skoda,1.37,6,Petrol,Automatic,11.15,274.4
+Car_990,Nissan,1.75,4,Petrol,Automatic,9.04,262.9
+Car_991,Toyota,2.72,4,Petrol,Manual,11.47,306.7
+Car_992,Honda,2.65,3,Petrol,Manual,10.35,277.4
+Car_993,Volkswagen,1.21,3,CNG,Manual,8.27,206.0
+Car_994,Maruti Suzuki,2.57,4,Petrol,Manual,11.08,293.6
+Car_995,Honda,1.81,3,Diesel,Automatic,9.09,291.8
+Car_996,Toyota,1.86,6,Diesel,Automatic,10.38,279.2
+Car_997,Honda,1.09,4,Diesel,Manual,8.25,262.7
+Car_998,Toyota,0.98,4,Petrol,Manual,6.15,190.6
+Car_999,Toyota,2.4,3,Diesel,Manual,10.34,294.1
+Car_1000,Kia,1.89,3,Diesel,Automatic,8.65,260.8
+Car_1001,Mahindra,1.76,3,Diesel,Manual,9.42,273.4
+Car_1002,Nissan,2.4,3,Diesel,Manual,10.0,287.9
+Car_1003,Skoda,2.48,3,CNG,Manual,10.51,239.2
+Car_1004,Kia,1.15,4,Diesel,Automatic,8.47,269.0
+Car_1005,Volkswagen,2.14,4,Petrol,Manual,8.67,229.2
+Car_1006,Kia,1.1,4,Diesel,Automatic,7.71,250.5
+Car_1007,Tata,2.45,4,Petrol,Manual,11.02,285.9
+Car_1008,Tata,2.25,3,Diesel,Manual,9.69,271.7
+Car_1009,Skoda,2.9,4,Petrol,Manual,12.32,314.7
+Car_1010,Honda,0.95,4,Petrol,Automatic,8.28,224.2
+Car_1011,Mahindra,0.93,3,Diesel,Manual,6.13,216.8
+Car_1012,Skoda,1.42,4,Diesel,Manual,7.82,234.9
+Car_1013,Toyota,1.38,3,Petrol,Automatic,8.42,244.9
+Car_1014,Hyundai,1.34,4,Petrol,Automatic,7.19,209.7
+Car_1015,Mahindra,2.79,6,Diesel,Automatic,14.13,360.3
+Car_1016,MG,1.35,3,Petrol,Manual,7.99,235.5
+Car_1017,Nissan,1.4,4,Diesel,Automatic,9.8,277.3
+Car_1018,Mahindra,2.47,4,Petrol,Manual,9.48,259.9
+Car_1019,Toyota,1.79,6,Diesel,Automatic,11.73,306.4
+Car_1020,Toyota,2.51,4,Diesel,Automatic,12.83,346.0
+Car_1021,Maruti Suzuki,0.94,4,Petrol,Automatic,7.05,231.3
+Car_1022,Skoda,1.87,3,Petrol,Manual,9.32,282.5
+Car_1023,Toyota,0.87,3,Petrol,Manual,6.68,209.4
+Car_1024,Tata,0.94,3,Diesel,Manual,5.74,216.3
+Car_1025,Volkswagen,2.79,6,Petrol,Manual,12.7,303.9
+Car_1026,Hyundai,1.11,4,Diesel,Manual,8.31,270.3
+Car_1027,Nissan,1.97,4,Petrol,Manual,9.12,260.7
+Car_1028,Skoda,1.7,6,Petrol,Manual,10.89,282.1
+Car_1029,Renault,1.56,3,Petrol,Manual,6.96,224.9
+Car_1030,Tata,2.78,3,Petrol,Manual,9.64,261.0
+Car_1031,MG,0.85,3,Diesel,Automatic,7.33,234.5
+Car_1032,Honda,2.26,3,Diesel,Automatic,10.21,296.2
+Car_1033,Toyota,2.92,3,Diesel,Manual,10.48,287.3
+Car_1034,Renault,2.03,4,Petrol,Manual,10.23,283.4
+Car_1035,Toyota,2.86,3,CNG,Manual,11.23,253.3
+Car_1036,Mahindra,0.91,3,Diesel,Manual,7.36,229.7
+Car_1037,Tata,1.72,3,CNG,Automatic,8.98,212.9
+Car_1038,Mahindra,1.37,3,Petrol,Automatic,8.75,253.7
+Car_1039,Maruti Suzuki,2.41,6,Petrol,Manual,11.25,287.6
+Car_1040,Mahindra,2.96,4,Petrol,Automatic,13.65,325.4
+Car_1041,Maruti Suzuki,1.36,6,Diesel,Automatic,9.39,271.3
+Car_1042,MG,2.24,3,Petrol,Manual,11.03,288.8
+Car_1043,Maruti Suzuki,1.24,3,Petrol,Manual,7.48,212.8
+Car_1044,Renault,2.04,4,Petrol,Manual,8.72,236.0
+Car_1045,Toyota,1.82,3,Diesel,Manual,9.63,300.2
+Car_1046,Honda,2.94,3,Diesel,Automatic,11.71,311.9
+Car_1047,Nissan,2.14,3,Petrol,Manual,9.94,266.0
+Car_1048,Mahindra,1.57,3,Petrol,Automatic,9.6,259.3
+Car_1049,Nissan,1.05,3,Diesel,Manual,7.29,234.1
+Car_1050,Tata,1.13,3,CNG,Automatic,7.41,197.7
+Car_1051,Maruti Suzuki,1.3,4,Diesel,Manual,8.81,274.5
+Car_1052,Toyota,1.35,3,CNG,Manual,7.69,194.5
+Car_1053,Hyundai,2.67,3,Diesel,Automatic,11.54,305.4
+Car_1054,Skoda,2.03,4,Diesel,Automatic,8.76,276.5
+Car_1055,Renault,1.95,3,Petrol,Automatic,9.86,266.6
+Car_1056,Honda,1.05,3,Diesel,Manual,6.61,240.9
+Car_1057,Kia,2.69,4,Diesel,Automatic,12.81,319.8
+Car_1058,Renault,2.39,3,Diesel,Automatic,10.91,306.6
+Car_1059,MG,0.95,3,Petrol,Automatic,7.61,243.1
+Car_1060,Hyundai,2.36,4,Petrol,Automatic,11.3,290.9
+Car_1061,Skoda,2.0,3,Petrol,Automatic,8.95,248.5
+Car_1062,Hyundai,0.98,4,Petrol,Automatic,9.19,257.7
+Car_1063,Mahindra,1.81,4,Petrol,Automatic,11.19,287.0
+Car_1064,Maruti Suzuki,1.87,3,Diesel,Automatic,9.65,278.7
+Car_1065,Honda,1.16,4,Petrol,Automatic,9.55,258.6
+Car_1066,Volkswagen,2.88,4,Petrol,Manual,11.05,283.8
+Car_1067,Maruti Suzuki,2.67,3,Petrol,Manual,9.9,279.2
+Car_1068,Volkswagen,2.27,4,Diesel,Automatic,10.8,306.9
+Car_1069,Nissan,1.82,3,Petrol,Manual,8.98,253.4
+Car_1070,Skoda,1.71,4,Petrol,Manual,8.72,253.6
+Car_1071,Toyota,2.23,3,Diesel,Automatic,10.51,295.1
+Car_1072,Kia,2.0,4,Petrol,Automatic,10.41,270.6
+Car_1073,Tata,0.94,3,CNG,Automatic,6.73,174.1
+Car_1074,Maruti Suzuki,1.93,4,CNG,Automatic,10.42,247.8
+Car_1075,Honda,2.57,3,Petrol,Automatic,11.45,287.3
+Car_1076,MG,1.81,3,Petrol,Automatic,9.37,253.8
+Car_1077,MG,0.91,4,Diesel,Manual,8.12,248.6
+Car_1078,Hyundai,2.53,4,Petrol,Automatic,10.46,297.6
+Car_1079,Honda,1.24,4,Petrol,Manual,8.33,214.1
+Car_1080,Skoda,1.37,4,Petrol,Automatic,8.06,232.5
+Car_1081,Nissan,1.16,4,CNG,Automatic,7.66,212.2
+Car_1082,Volkswagen,1.53,4,Petrol,Manual,8.17,237.2
+Car_1083,Hyundai,2.46,3,Diesel,Automatic,9.96,294.0
+Car_1084,MG,1.94,4,Diesel,Automatic,9.69,283.2
+Car_1085,Tata,1.25,4,Petrol,Manual,7.88,224.8
+Car_1086,Tata,2.73,6,Petrol,Automatic,13.42,313.1
+Car_1087,Maruti Suzuki,2.74,4,CNG,Manual,10.93,259.1
+Car_1088,Skoda,2.72,3,Petrol,Automatic,10.05,263.9
+Car_1089,Toyota,1.33,3,Diesel,Automatic,9.04,263.0
+Car_1090,MG,1.79,4,Petrol,Manual,8.57,239.1
+Car_1091,Skoda,2.97,4,Petrol,Automatic,12.2,326.4
+Car_1092,Nissan,2.5,4,Petrol,Manual,10.96,309.4
+Car_1093,Volkswagen,0.86,4,Petrol,Manual,7.35,222.9
+Car_1094,Honda,0.94,4,Petrol,Manual,8.14,231.4
+Car_1095,MG,1.82,3,Diesel,Automatic,9.61,270.2
+Car_1096,Tata,2.8,4,Petrol,Automatic,11.28,297.9
+Car_1097,Honda,1.99,3,Petrol,Manual,10.55,296.2
+Car_1098,Honda,1.9,3,Petrol,Automatic,9.58,260.0
+Car_1099,Honda,1.03,4,Diesel,Automatic,8.06,230.7
+Car_1100,Tata,2.24,4,Petrol,Automatic,11.38,301.6
+Car_1101,Nissan,2.61,3,Diesel,Manual,10.51,306.3
+Car_1102,Renault,1.64,3,Petrol,Automatic,9.17,240.4
+Car_1103,Mahindra,2.51,6,Petrol,Manual,13.52,336.7
+Car_1104,Volkswagen,2.92,3,Petrol,Automatic,11.39,299.8
+Car_1105,Renault,1.25,4,Diesel,Automatic,8.4,257.7
+Car_1106,Volkswagen,1.95,4,Petrol,Manual,9.58,255.1
+Car_1107,Hyundai,1.43,4,Petrol,Automatic,9.75,274.5
+Car_1108,Skoda,2.54,4,Petrol,Manual,9.68,260.4
+Car_1109,Skoda,2.07,3,Diesel,Automatic,8.42,245.4
+Car_1110,Kia,2.2,4,Petrol,Manual,9.61,244.3
+Car_1111,Skoda,2.56,3,Petrol,Automatic,9.68,275.4
+Car_1112,Tata,1.67,4,Petrol,Automatic,9.21,260.9
+Car_1113,Toyota,2.81,3,Petrol,Automatic,11.7,302.2
+Car_1114,Maruti Suzuki,1.97,4,Diesel,Manual,8.91,263.9
+Car_1115,Kia,1.15,3,Diesel,Manual,6.27,214.2
+Car_1116,Maruti Suzuki,2.33,3,Petrol,Manual,9.79,256.4
+Car_1117,Volkswagen,2.55,3,Petrol,Automatic,11.41,292.2
+Car_1118,Maruti Suzuki,1.5,3,Petrol,Manual,6.81,191.9
+Car_1119,Maruti Suzuki,2.69,4,Petrol,Manual,11.62,293.3
+Car_1120,Kia,2.79,3,Petrol,Manual,11.28,290.9
+Car_1121,Hyundai,1.41,6,Diesel,Manual,10.13,295.9
+Car_1122,Honda,2.96,6,CNG,Manual,13.57,305.7
+Car_1123,Skoda,1.11,4,CNG,Manual,9.27,233.6
+Car_1124,Skoda,1.24,3,Diesel,Manual,7.2,248.3
+Car_1125,Tata,1.21,3,Diesel,Manual,7.47,250.7
+Car_1126,Kia,2.77,4,Diesel,Manual,10.93,309.4
+Car_1127,Tata,2.24,3,Petrol,Manual,9.56,262.0
+Car_1128,Toyota,1.13,3,Diesel,Automatic,8.9,258.8
+Car_1129,Toyota,1.77,4,Petrol,Automatic,8.78,254.1
+Car_1130,Tata,2.15,4,Petrol,Manual,9.31,272.4
+Car_1131,Kia,0.98,4,Diesel,Automatic,9.02,272.9
+Car_1132,Tata,2.74,3,Petrol,Automatic,11.92,322.8
+Car_1133,Skoda,2.57,4,Petrol,Manual,10.54,266.3
+Car_1134,Renault,1.91,3,CNG,Manual,9.46,219.6
+Car_1135,Mahindra,2.93,3,Petrol,Manual,11.24,300.6
+Car_1136,Maruti Suzuki,1.72,4,Petrol,Automatic,10.66,284.6
+Car_1137,Mahindra,2.97,3,CNG,Manual,11.14,272.9
+Car_1138,Kia,2.27,3,Diesel,Automatic,10.93,305.1
+Car_1139,Nissan,2.2,3,Petrol,Manual,11.32,286.6
+Car_1140,Mahindra,1.17,4,Petrol,Automatic,8.88,247.4
+Car_1141,Toyota,2.74,4,Petrol,Automatic,11.79,289.3
+Car_1142,Volkswagen,1.74,4,Diesel,Manual,9.56,269.7
+Car_1143,Maruti Suzuki,1.16,4,Diesel,Manual,7.58,252.0
+Car_1144,Honda,0.83,3,Petrol,Automatic,8.86,256.8
+Car_1145,Nissan,2.03,4,Petrol,Automatic,10.39,280.5
+Car_1146,Kia,1.96,3,Petrol,Manual,8.77,231.8
+Car_1147,Maruti Suzuki,2.38,3,CNG,Manual,9.26,223.1
+Car_1148,Mahindra,2.76,4,Petrol,Automatic,12.56,306.3
+Car_1149,Toyota,0.97,6,Diesel,Manual,9.14,282.7
+Car_1150,Hyundai,2.41,3,Petrol,Automatic,10.16,267.7
+Car_1151,Renault,1.21,3,Diesel,Manual,7.79,237.3
+Car_1152,Honda,2.69,3,CNG,Manual,9.44,229.9
+Car_1153,Nissan,2.6,3,Diesel,Manual,10.44,290.4
+Car_1154,Renault,1.99,6,Petrol,Automatic,11.6,313.0
+Car_1155,Maruti Suzuki,2.36,4,Diesel,Manual,11.55,310.1
+Car_1156,Toyota,1.49,4,Diesel,Automatic,8.59,249.3
+Car_1157,Toyota,1.84,4,Petrol,Manual,8.37,220.5
+Car_1158,Mahindra,2.61,3,Diesel,Automatic,10.3,293.3
+Car_1159,Skoda,1.81,4,Diesel,Automatic,8.87,262.0
+Car_1160,Mahindra,1.59,3,Diesel,Manual,9.12,258.9
+Car_1161,Skoda,1.89,4,Diesel,Automatic,11.05,318.1
+Car_1162,Skoda,2.62,6,Petrol,Automatic,12.83,328.4
+Car_1163,Honda,1.54,4,Petrol,Automatic,10.09,271.4
+Car_1164,Mahindra,1.18,3,Petrol,Automatic,8.02,245.6
+Car_1165,MG,2.37,4,CNG,Manual,10.31,251.7
+Car_1166,Hyundai,2.62,3,Diesel,Manual,10.12,282.8
+Car_1167,Nissan,1.02,3,Diesel,Manual,6.77,218.9
+Car_1168,Tata,1.33,3,Petrol,Automatic,7.16,224.8
+Car_1169,Tata,1.11,3,Petrol,Automatic,7.97,236.0
+Car_1170,Mahindra,1.57,4,Diesel,Manual,8.67,264.9
+Car_1171,Mahindra,1.79,4,Petrol,Manual,9.68,256.5
+Car_1172,Renault,2.45,6,Petrol,Automatic,12.31,318.2
+Car_1173,Nissan,2.23,4,Diesel,Manual,9.97,280.6
+Car_1174,Nissan,2.17,4,Petrol,Manual,9.35,257.1
+Car_1175,Honda,1.58,3,Petrol,Automatic,8.82,261.2
+Car_1176,Mahindra,2.65,3,Petrol,Manual,10.93,281.3
+Car_1177,Nissan,1.84,4,Petrol,Automatic,9.06,238.5
+Car_1178,Renault,2.95,3,CNG,Manual,11.11,251.1
+Car_1179,Skoda,2.2,4,Petrol,Automatic,10.78,293.4
+Car_1180,Toyota,1.08,3,Petrol,Automatic,7.22,220.9
+Car_1181,Toyota,2.29,3,Petrol,Automatic,9.85,266.1
+Car_1182,Skoda,1.52,3,Diesel,Automatic,8.8,261.2
+Car_1183,Kia,2.31,3,Petrol,Automatic,9.51,265.3
+Car_1184,Renault,0.95,3,Diesel,Manual,7.09,226.5
+Car_1185,Nissan,1.18,4,Petrol,Manual,7.25,221.9
+Car_1186,MG,2.68,3,Petrol,Manual,11.22,286.0
+Car_1187,Renault,1.3,4,Petrol,Automatic,10.37,268.8
+Car_1188,Skoda,2.64,3,Diesel,Manual,9.79,278.4
+Car_1189,Hyundai,1.41,3,Diesel,Automatic,8.78,262.1
+Car_1190,Volkswagen,2.21,3,Petrol,Automatic,9.58,261.8
+Car_1191,Maruti Suzuki,2.33,4,Petrol,Manual,11.02,291.0
+Car_1192,Skoda,1.93,3,CNG,Automatic,8.62,181.3
+Car_1193,MG,1.47,4,Petrol,Manual,8.82,240.9
+Car_1194,Nissan,1.27,3,Diesel,Automatic,7.51,238.4
+Car_1195,MG,0.87,4,Petrol,Automatic,7.68,240.6
+Car_1196,MG,1.47,3,CNG,Manual,7.22,178.8
+Car_1197,Mahindra,2.24,4,Diesel,Automatic,11.28,313.1
+Car_1198,Mahindra,2.86,4,CNG,Manual,10.82,268.6
+Car_1199,Honda,2.72,6,Diesel,Automatic,13.2,335.4
+Car_1200,Skoda,2.49,3,Petrol,Manual,9.84,270.6
+Car_1201,Honda,2.53,3,CNG,Automatic,10.68,245.4
+Car_1202,Skoda,2.26,3,Petrol,Manual,9.7,259.9
+Car_1203,Renault,1.37,4,Petrol,Manual,7.74,221.0
+Car_1204,Maruti Suzuki,2.8,4,Diesel,Automatic,12.03,319.0
+Car_1205,MG,2.28,4,Diesel,Manual,11.26,335.8
+Car_1206,Renault,2.03,3,CNG,Automatic,9.17,232.2
+Car_1207,Volkswagen,1.04,3,Petrol,Automatic,8.45,251.2
+Car_1208,Toyota,1.78,3,Diesel,Manual,9.64,285.8
+Car_1209,Tata,1.81,6,Diesel,Manual,9.73,268.5
+Car_1210,Skoda,2.7,4,Petrol,Manual,10.05,274.5
+Car_1211,Volkswagen,2.0,6,Petrol,Manual,10.91,296.5
+Car_1212,Toyota,1.64,3,Petrol,Manual,7.91,223.7
+Car_1213,Nissan,2.95,4,Petrol,Automatic,13.5,343.4
+Car_1214,Kia,1.04,4,CNG,Manual,7.61,202.1
+Car_1215,Maruti Suzuki,1.73,3,Diesel,Automatic,8.52,277.3
+Car_1216,Honda,0.89,4,Diesel,Manual,6.47,218.9
+Car_1217,Honda,2.43,6,CNG,Manual,12.37,274.0
+Car_1218,Renault,2.82,4,Petrol,Manual,10.92,283.8
+Car_1219,Mahindra,1.42,4,Diesel,Automatic,9.01,282.6
+Car_1220,Toyota,2.69,3,Petrol,Manual,11.17,275.2
+Car_1221,Kia,1.44,3,Diesel,Automatic,8.14,235.0
+Car_1222,Volkswagen,2.8,6,Petrol,Automatic,12.95,325.4
+Car_1223,Maruti Suzuki,2.46,3,CNG,Automatic,10.6,247.1
+Car_1224,Toyota,2.57,4,Petrol,Manual,11.28,293.7
+Car_1225,Kia,0.84,4,Petrol,Automatic,8.18,244.8
+Car_1226,Tata,2.92,4,Diesel,Manual,11.38,308.6
+Car_1227,Skoda,2.4,6,Petrol,Automatic,12.18,293.5
+Car_1228,Honda,1.47,3,Diesel,Manual,7.68,263.5
+Car_1229,Volkswagen,2.62,3,Petrol,Automatic,9.92,259.5
+Car_1230,Honda,1.42,3,Diesel,Manual,8.01,241.7
+Car_1231,Volkswagen,2.72,3,Petrol,Manual,11.89,314.9
+Car_1232,Renault,1.05,3,Petrol,Manual,6.44,200.7
+Car_1233,Mahindra,2.35,3,Petrol,Automatic,9.84,266.5
+Car_1234,Volkswagen,1.99,4,Petrol,Automatic,9.57,266.4
+Car_1235,Honda,1.01,6,Petrol,Manual,9.13,263.7
+Car_1236,Renault,1.33,3,Petrol,Automatic,8.56,240.4
+Car_1237,Volkswagen,0.83,3,Petrol,Automatic,7.08,229.7
+Car_1238,Tata,1.83,6,Petrol,Automatic,10.3,256.3
+Car_1239,Mahindra,1.46,3,Diesel,Automatic,8.58,268.6
+Car_1240,Volkswagen,2.12,3,Diesel,Automatic,8.81,258.4
+Car_1241,Renault,1.45,3,Petrol,Automatic,8.6,256.5
+Car_1242,Nissan,1.46,4,Diesel,Automatic,9.68,283.4
+Car_1243,Toyota,2.44,3,Diesel,Manual,9.1,265.3
+Car_1244,Hyundai,0.91,6,Petrol,Manual,7.34,226.8
+Car_1245,Kia,2.79,3,Diesel,Automatic,12.41,340.6
+Car_1246,Hyundai,2.67,4,Petrol,Manual,10.58,286.5
+Car_1247,Nissan,2.27,3,Petrol,Manual,10.41,268.3
+Car_1248,Hyundai,2.11,4,Petrol,Manual,9.72,260.5
+Car_1249,Nissan,2.76,4,Diesel,Automatic,11.68,319.0
+Car_1250,Maruti Suzuki,1.21,4,Diesel,Automatic,8.85,266.4
+Car_1251,Nissan,0.97,4,Petrol,Automatic,7.42,229.0
+Car_1252,Nissan,1.33,4,Petrol,Automatic,8.89,231.3
+Car_1253,MG,2.55,6,CNG,Automatic,12.19,283.5
+Car_1254,Nissan,0.88,4,Petrol,Manual,6.32,199.3
+Car_1255,Tata,2.08,4,Petrol,Automatic,10.6,273.6
+Car_1256,Toyota,2.99,3,CNG,Manual,10.94,250.7
+Car_1257,Skoda,2.68,3,Diesel,Automatic,10.97,304.0
+Car_1258,Volkswagen,1.95,3,Diesel,Manual,8.1,220.4
+Car_1259,Kia,0.94,4,Diesel,Automatic,9.09,264.9
+Car_1260,Mahindra,2.63,3,Diesel,Automatic,11.59,309.5
+Car_1261,Toyota,2.12,3,Petrol,Automatic,10.58,285.5
+Car_1262,Honda,1.05,4,Petrol,Automatic,7.99,225.6
+Car_1263,Skoda,1.01,4,Petrol,Automatic,6.91,210.9
+Car_1264,Maruti Suzuki,2.8,6,CNG,Automatic,14.35,334.4
+Car_1265,Maruti Suzuki,2.27,3,Diesel,Manual,9.57,289.0
+Car_1266,Nissan,2.62,4,Petrol,Automatic,10.98,296.3
+Car_1267,Toyota,2.73,3,Diesel,Manual,10.87,299.6
+Car_1268,Renault,2.06,3,Petrol,Automatic,10.59,285.8
+Car_1269,MG,1.94,3,Petrol,Manual,8.91,247.7
+Car_1270,Hyundai,1.75,3,Petrol,Manual,9.42,257.5
+Car_1271,Honda,1.5,3,Petrol,Manual,8.76,250.7
+Car_1272,Maruti Suzuki,1.76,4,Diesel,Manual,8.34,251.9
+Car_1273,Kia,2.5,3,Petrol,Manual,9.63,276.6
+Car_1274,Maruti Suzuki,2.12,4,Diesel,Manual,10.52,296.2
+Car_1275,Mahindra,2.76,4,Diesel,Automatic,9.9,291.7
+Car_1276,Volkswagen,1.78,3,Petrol,Manual,8.48,255.0
+Car_1277,Maruti Suzuki,2.14,4,CNG,Automatic,9.49,239.8
+Car_1278,Mahindra,2.19,3,Petrol,Automatic,9.72,252.1
+Car_1279,Toyota,2.1,4,Petrol,Manual,9.6,266.6
+Car_1280,Toyota,2.35,3,Petrol,Manual,9.53,269.0
+Car_1281,MG,1.32,3,Diesel,Automatic,7.84,256.1
+Car_1282,Skoda,1.93,3,Petrol,Manual,8.13,225.4
+Car_1283,Maruti Suzuki,1.03,4,Petrol,Manual,9.17,248.7
+Car_1284,Kia,1.65,6,Petrol,Manual,11.27,302.4
+Car_1285,Maruti Suzuki,1.87,3,Petrol,Manual,7.96,225.4
+Car_1286,Kia,2.23,4,Diesel,Manual,11.19,307.3
+Car_1287,Tata,2.89,4,Petrol,Manual,11.19,306.2
+Car_1288,Nissan,2.12,6,Petrol,Manual,11.04,288.8
+Car_1289,Skoda,2.44,4,Petrol,Automatic,11.08,283.4
+Car_1290,Tata,1.91,4,Petrol,Manual,8.95,242.7
+Car_1291,Maruti Suzuki,2.2,4,CNG,Automatic,11.31,267.2
+Car_1292,Skoda,0.96,4,Petrol,Automatic,8.1,222.9
+Car_1293,Tata,1.36,3,CNG,Automatic,7.97,200.2
+Car_1294,Hyundai,1.6,3,Petrol,Automatic,7.9,234.1
+Car_1295,Maruti Suzuki,1.84,3,Petrol,Manual,8.09,246.4
+Car_1296,Tata,0.9,4,Diesel,Automatic,6.74,233.7
+Car_1297,Hyundai,1.11,4,Petrol,Automatic,8.34,232.9
+Car_1298,Hyundai,1.41,3,Diesel,Automatic,7.57,253.7
+Car_1299,Toyota,2.94,4,CNG,Automatic,11.99,274.1
+Car_1300,MG,1.53,4,Petrol,Automatic,10.17,262.0
+Car_1301,Maruti Suzuki,1.86,3,Petrol,Manual,9.6,261.1
+Car_1302,Hyundai,1.23,6,Diesel,Manual,9.06,283.6
+Car_1303,Toyota,2.14,3,Petrol,Automatic,9.88,269.3
+Car_1304,Tata,1.42,3,Petrol,Manual,9.15,254.4
+Car_1305,Mahindra,1.26,4,Petrol,Manual,8.41,255.3
+Car_1306,Maruti Suzuki,1.94,4,Petrol,Automatic,9.84,254.2
+Car_1307,Skoda,0.81,3,Diesel,Automatic,6.15,205.2
+Car_1308,Kia,0.82,4,Petrol,Automatic,8.0,218.5
+Car_1309,Kia,1.28,4,Petrol,Manual,8.67,248.7
+Car_1310,Tata,0.88,3,Diesel,Automatic,6.86,231.4
+Car_1311,Renault,1.04,3,Petrol,Manual,7.24,232.8
+Car_1312,Renault,1.55,4,Petrol,Manual,8.4,242.6
+Car_1313,Tata,2.57,3,Diesel,Manual,10.12,286.6
+Car_1314,Hyundai,2.06,6,Petrol,Automatic,9.68,264.1
+Car_1315,MG,1.93,4,Diesel,Manual,9.3,276.1
+Car_1316,Maruti Suzuki,1.45,6,Diesel,Automatic,10.82,288.1
+Car_1317,Kia,2.85,3,Petrol,Automatic,10.99,312.7
+Car_1318,Kia,1.67,6,Petrol,Automatic,10.64,286.5
+Car_1319,MG,0.99,3,Petrol,Automatic,7.0,216.4
+Car_1320,Hyundai,2.16,3,Petrol,Automatic,10.24,280.0
+Car_1321,Kia,1.05,3,Diesel,Manual,6.9,237.0
+Car_1322,Skoda,1.56,3,Diesel,Manual,7.47,239.9
+Car_1323,Maruti Suzuki,1.92,4,Petrol,Manual,10.36,271.0
+Car_1324,Volkswagen,2.72,4,Diesel,Manual,11.76,326.0
+Car_1325,Kia,1.89,3,CNG,Manual,8.4,213.9
+Car_1326,Tata,2.34,4,CNG,Automatic,11.26,256.0
+Car_1327,Skoda,2.98,3,Petrol,Automatic,12.08,321.3
+Car_1328,Kia,1.09,4,Petrol,Manual,8.14,238.2
+Car_1329,Nissan,1.4,3,Petrol,Manual,6.6,213.7
+Car_1330,Skoda,1.67,4,CNG,Manual,9.61,245.3
+Car_1331,Toyota,1.73,4,Petrol,Automatic,9.23,256.0
+Car_1332,Volkswagen,1.7,4,Diesel,Automatic,9.32,278.3
+Car_1333,Honda,2.8,3,Petrol,Automatic,13.18,336.1
+Car_1334,Tata,2.37,3,Petrol,Manual,10.04,264.2
+Car_1335,Tata,2.14,4,Petrol,Manual,9.62,263.5
+Car_1336,Maruti Suzuki,1.48,3,CNG,Manual,6.41,174.7
+Car_1337,MG,2.61,3,Petrol,Manual,11.3,285.4
+Car_1338,Skoda,2.9,3,Diesel,Automatic,10.6,320.0
+Car_1339,Hyundai,2.61,4,Petrol,Manual,10.18,260.7
+Car_1340,Tata,0.8,4,Petrol,Manual,6.85,200.0
+Car_1341,Skoda,2.2,4,Petrol,Manual,11.01,300.5
+Car_1342,Skoda,0.91,3,Petrol,Automatic,7.9,237.6
+Car_1343,Nissan,1.37,3,Petrol,Automatic,8.22,227.8
+Car_1344,Mahindra,0.93,4,Petrol,Manual,7.57,230.5
+Car_1345,Mahindra,2.13,4,Petrol,Automatic,10.05,284.1
+Car_1346,Honda,2.31,3,Petrol,Automatic,10.4,277.1
+Car_1347,Toyota,1.05,4,CNG,Automatic,8.26,231.2
+Car_1348,Honda,1.64,3,CNG,Automatic,9.57,216.5
+Car_1349,Kia,1.8,6,Petrol,Automatic,11.56,305.1
+Car_1350,Hyundai,1.61,3,Diesel,Manual,8.58,272.2
+Car_1351,Kia,1.07,6,CNG,Manual,8.49,220.1
+Car_1352,Renault,1.72,4,Petrol,Manual,9.53,259.5
+Car_1353,Kia,2.45,4,Diesel,Automatic,11.08,305.4
+Car_1354,Maruti Suzuki,0.96,3,CNG,Automatic,6.71,183.1
+Car_1355,Kia,0.98,4,Petrol,Automatic,7.78,236.3
+Car_1356,Honda,1.58,3,Petrol,Automatic,8.83,253.8
+Car_1357,Tata,2.87,3,CNG,Manual,11.51,277.3
+Car_1358,Tata,2.27,4,Petrol,Manual,10.04,261.6
+Car_1359,Mahindra,2.29,6,Petrol,Manual,10.46,276.5
+Car_1360,MG,1.6,4,Petrol,Manual,8.8,239.3
+Car_1361,Hyundai,2.11,4,Petrol,Manual,9.91,264.9
+Car_1362,Hyundai,0.82,3,Diesel,Manual,6.7,236.1
+Car_1363,Maruti Suzuki,2.2,3,Diesel,Automatic,10.71,302.1
+Car_1364,Honda,2.81,3,CNG,Automatic,12.06,301.6
+Car_1365,Mahindra,2.15,4,Petrol,Manual,9.5,262.5
+Car_1366,Nissan,2.72,6,Petrol,Automatic,12.38,314.6
+Car_1367,Renault,2.39,4,Petrol,Manual,9.69,265.2
+Car_1368,Hyundai,1.07,3,Petrol,Manual,7.59,219.7
+Car_1369,Tata,2.79,3,Petrol,Automatic,12.32,312.4
+Car_1370,Kia,0.95,4,CNG,Manual,7.17,197.8
+Car_1371,Kia,1.97,3,Diesel,Manual,8.82,267.2
+Car_1372,MG,1.11,4,Petrol,Manual,8.76,239.9
+Car_1373,Mahindra,0.83,4,Diesel,Automatic,8.1,244.5
+Car_1374,Honda,1.73,4,Petrol,Automatic,9.94,264.8
+Car_1375,Honda,1.45,3,Petrol,Automatic,7.66,227.4
+Car_1376,Toyota,1.87,3,Diesel,Automatic,9.85,296.0
+Car_1377,Volkswagen,2.07,3,Petrol,Manual,8.55,231.1
+Car_1378,Hyundai,0.9,3,CNG,Automatic,6.55,173.3
+Car_1379,Honda,1.07,3,Diesel,Automatic,7.45,242.1
+Car_1380,MG,2.03,4,Petrol,Automatic,9.85,250.7
+Car_1381,Tata,1.55,4,Diesel,Manual,8.5,252.7
+Car_1382,Mahindra,2.4,3,Petrol,Automatic,9.48,254.3
+Car_1383,Renault,2.24,3,Petrol,Automatic,10.83,278.2
+Car_1384,Toyota,2.66,3,Petrol,Manual,11.23,294.5
+Car_1385,MG,2.32,3,Petrol,Manual,8.36,238.2
+Car_1386,Skoda,1.75,4,Diesel,Manual,9.76,278.6
+Car_1387,Maruti Suzuki,2.28,3,Petrol,Manual,9.07,256.6
+Car_1388,Renault,1.41,3,Diesel,Automatic,9.01,285.2
+Car_1389,Skoda,1.47,3,Diesel,Manual,7.89,263.7
+Car_1390,Nissan,2.54,4,Petrol,Automatic,11.35,277.7
+Car_1391,Kia,1.78,4,Diesel,Automatic,9.61,286.0
+Car_1392,Maruti Suzuki,2.56,3,Petrol,Automatic,11.67,299.3
+Car_1393,Hyundai,2.61,4,Petrol,Automatic,10.61,282.7
+Car_1394,Tata,2.69,4,Petrol,Automatic,12.07,304.7
+Car_1395,Maruti Suzuki,2.82,6,Petrol,Manual,13.19,330.1
+Car_1396,Volkswagen,1.75,3,Petrol,Automatic,9.63,264.5
+Car_1397,Skoda,1.5,4,Diesel,Automatic,10.78,297.2
+Car_1398,Hyundai,2.08,6,Petrol,Automatic,11.1,282.3
+Car_1399,Volkswagen,1.62,6,Petrol,Manual,10.57,276.5
+Car_1400,Kia,2.12,4,CNG,Automatic,10.38,249.1
+Car_1401,Volkswagen,2.35,4,Diesel,Automatic,11.8,326.7
+Car_1402,Toyota,2.31,3,Diesel,Manual,9.7,290.1
+Car_1403,Toyota,1.62,4,Petrol,Automatic,9.13,249.5
+Car_1404,Nissan,1.17,4,Diesel,Automatic,9.37,278.9
+Car_1405,Mahindra,1.75,4,Diesel,Manual,8.73,273.2
+Car_1406,Renault,1.11,3,Diesel,Automatic,6.79,239.1
+Car_1407,Renault,2.76,4,Diesel,Automatic,11.43,313.9
+Car_1408,Hyundai,1.56,4,Petrol,Automatic,9.71,262.6
+Car_1409,Kia,1.14,3,Petrol,Automatic,8.82,249.9
+Car_1410,Honda,0.86,4,Petrol,Automatic,7.88,220.4
+Car_1411,Nissan,2.22,4,Petrol,Manual,10.98,286.4
+Car_1412,Toyota,2.2,4,Diesel,Manual,9.07,277.5
+Car_1413,Hyundai,1.55,3,Petrol,Manual,7.79,234.9
+Car_1414,Honda,0.96,3,CNG,Automatic,7.26,186.9
+Car_1415,Renault,1.7,6,CNG,Automatic,10.59,252.9
+Car_1416,Mahindra,1.48,3,Petrol,Automatic,8.62,237.0
+Car_1417,Volkswagen,2.29,4,Petrol,Manual,10.69,289.1
+Car_1418,Toyota,2.13,4,Diesel,Automatic,10.16,290.3
+Car_1419,Hyundai,1.6,4,CNG,Automatic,9.46,227.5
+Car_1420,Maruti Suzuki,1.28,3,Petrol,Automatic,8.11,231.8
+Car_1421,Honda,2.97,4,Petrol,Manual,10.99,287.7
+Car_1422,Volkswagen,1.8,3,Petrol,Manual,8.55,239.1
+Car_1423,Toyota,2.31,3,Diesel,Automatic,10.2,297.6
+Car_1424,Renault,1.11,3,Petrol,Automatic,7.67,223.3
+Car_1425,MG,1.87,3,Diesel,Automatic,9.4,291.2
+Car_1426,Kia,0.86,6,Petrol,Manual,8.36,252.8
+Car_1427,Honda,1.91,6,Petrol,Manual,10.21,265.9
+Car_1428,Renault,2.92,3,Petrol,Manual,11.87,305.2
+Car_1429,Toyota,1.65,4,Petrol,Automatic,8.65,239.2
+Car_1430,Honda,0.89,3,Petrol,Manual,6.21,196.9
+Car_1431,Nissan,0.87,4,Petrol,Automatic,9.77,283.8
+Car_1432,Volkswagen,1.65,4,Petrol,Automatic,8.74,243.9
+Car_1433,Toyota,1.15,6,Petrol,Manual,7.97,235.7
+Car_1434,Nissan,0.85,3,Petrol,Automatic,7.75,233.2
+Car_1435,Skoda,2.46,4,CNG,Manual,9.11,214.5
+Car_1436,Hyundai,1.81,3,Petrol,Automatic,9.09,245.5
+Car_1437,MG,1.44,6,Petrol,Automatic,11.63,289.3
+Car_1438,Volkswagen,2.78,3,Diesel,Manual,9.61,272.8
+Car_1439,Honda,1.06,4,CNG,Automatic,6.84,155.9
+Car_1440,Kia,2.9,4,Petrol,Automatic,11.04,294.1
+Car_1441,Renault,1.49,4,Diesel,Automatic,9.76,302.0
+Car_1442,Maruti Suzuki,2.75,3,Diesel,Automatic,12.01,326.5
+Car_1443,Renault,2.13,6,Diesel,Automatic,11.21,297.6
+Car_1444,Honda,2.62,3,Petrol,Automatic,11.43,290.7
+Car_1445,MG,2.96,4,Diesel,Automatic,13.19,342.9
+Car_1446,Renault,1.43,3,Petrol,Automatic,9.7,255.3
+Car_1447,Hyundai,2.91,3,Diesel,Manual,10.79,310.4
+Car_1448,MG,1.66,4,Diesel,Manual,7.27,244.8
+Car_1449,Toyota,1.65,3,Petrol,Automatic,8.34,228.9
+Car_1450,Nissan,1.55,3,Diesel,Automatic,8.41,265.1
+Car_1451,Maruti Suzuki,1.99,3,Petrol,Manual,8.85,262.5
+Car_1452,Tata,1.14,3,Diesel,Automatic,7.71,262.8
+Car_1453,Honda,2.02,4,Petrol,Manual,10.43,303.7
+Car_1454,Mahindra,1.99,4,Petrol,Manual,10.47,270.6
+Car_1455,Tata,2.48,3,Petrol,Manual,9.94,294.3
+Car_1456,Renault,2.63,3,CNG,Automatic,11.74,269.0
+Car_1457,Honda,1.77,3,Petrol,Automatic,9.42,253.9
+Car_1458,Nissan,1.47,3,Petrol,Automatic,8.58,246.7
+Car_1459,Skoda,1.37,4,Petrol,Manual,8.91,244.6
+Car_1460,Nissan,1.23,4,Diesel,Manual,8.03,255.1
+Car_1461,Mahindra,0.93,3,Petrol,Manual,8.24,225.6
+Car_1462,Maruti Suzuki,1.55,3,Petrol,Automatic,7.7,225.3
+Car_1463,Nissan,1.39,3,Petrol,Manual,7.41,233.7
+Car_1464,Kia,2.93,4,Petrol,Manual,11.46,296.5
+Car_1465,Skoda,2.03,6,Petrol,Automatic,11.67,302.2
+Car_1466,Tata,1.56,3,Petrol,Manual,9.01,256.0
+Car_1467,Toyota,2.08,3,Diesel,Manual,9.2,283.7
+Car_1468,Hyundai,1.11,4,Petrol,Automatic,7.34,205.9
+Car_1469,Kia,1.78,6,Petrol,Automatic,11.43,301.7
+Car_1470,Skoda,2.18,3,Petrol,Manual,9.96,266.8
+Car_1471,Toyota,1.88,3,CNG,Automatic,8.04,205.2
+Car_1472,Toyota,1.68,3,CNG,Manual,8.38,219.6
+Car_1473,Honda,2.99,4,Diesel,Automatic,11.17,298.9
+Car_1474,Skoda,2.74,3,Petrol,Manual,10.14,263.5
+Car_1475,Maruti Suzuki,2.17,3,Petrol,Automatic,9.38,241.1
+Car_1476,Renault,2.05,4,Petrol,Manual,10.27,270.1
+Car_1477,Mahindra,2.17,3,Petrol,Automatic,10.09,283.6
+Car_1478,Mahindra,1.24,4,Petrol,Automatic,7.7,226.4
+Car_1479,Tata,1.67,3,Diesel,Automatic,9.57,268.0
+Car_1480,Tata,0.89,3,Diesel,Automatic,6.32,215.5
+Car_1481,Mahindra,1.85,4,Diesel,Automatic,10.12,276.8
+Car_1482,Nissan,1.99,3,Petrol,Automatic,9.06,242.5
+Car_1483,Maruti Suzuki,1.3,6,Diesel,Automatic,9.57,283.5
+Car_1484,Nissan,2.92,4,Petrol,Manual,11.88,294.2
+Car_1485,Nissan,2.8,3,Petrol,Manual,11.1,300.4
+Car_1486,Hyundai,2.39,4,Diesel,Automatic,11.95,323.4
+Car_1487,Volkswagen,1.97,3,Petrol,Automatic,9.53,262.1
+Car_1488,Renault,2.71,6,Petrol,Manual,12.41,312.1
+Car_1489,Hyundai,1.09,3,Petrol,Manual,6.83,218.3
+Car_1490,Honda,2.54,4,Diesel,Automatic,11.46,322.1
+Car_1491,Volkswagen,1.07,3,Diesel,Manual,7.4,242.9
+Car_1492,Volkswagen,2.55,3,Petrol,Manual,10.14,277.7
+Car_1493,Skoda,1.41,4,Diesel,Automatic,7.7,243.5
+Car_1494,Maruti Suzuki,2.73,4,Petrol,Automatic,11.97,311.3
+Car_1495,Maruti Suzuki,2.88,3,Petrol,Automatic,11.75,299.3
+Car_1496,Volkswagen,1.13,3,Diesel,Manual,6.75,227.9
+Car_1497,Nissan,1.82,4,Diesel,Automatic,8.92,265.5
+Car_1498,Skoda,2.96,6,CNG,Automatic,14.35,316.4
+Car_1499,Renault,1.86,3,Petrol,Manual,9.1,247.1
+Car_1500,Volkswagen,2.7,4,Diesel,Automatic,11.51,320.1
